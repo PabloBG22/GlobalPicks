@@ -1,0 +1,40 @@
+Objetivo: validar "Gol HT" (>= 1 gol en el primer tiempo).
+
+Usa solo el Resumen historico y las Tendencias (Trends). No uses modelo ni datos externos.
+
+Metodologia
+1) Validar muestra
+- Usa local/visitante.samples.ht (o matches si no existe).
+- Si ambos < min_sample y no hay h2h con muestra suficiente, responde False.
+
+2) Señales base (por equipo)
+- rates.ht_goal (frecuencia de gol en HT).
+- averages.total_goals (ritmo general).
+- averages.total_corners (presion/ofensiva).
+
+3) Contexto local/visita
+- Si existen local_home y visitante_away, revisa que no sean claramente inferiores.
+- Si ambos contextos tienen rates.ht_goal < 0.40, penaliza fuerte.
+
+4) Rachas
+- Revisa streaks.ht_goal.zero_streak.
+- Si zero_streak >= 3 en algun equipo, es señal roja.
+
+5) H2H (si existe)
+- Si h2h.rates.ht_goal >= 0.60 con muestra suficiente, puede elevar un caso borderline.
+
+Reglas de decision
+Devuelve True si se cumplen TODAS:
+- (local.rates.ht_goal >= 0.60 y visitante.rates.ht_goal >= 0.45) o (local >= 0.50 y visitante >= 0.50)
+- streaks.ht_goal.zero_streak <= 2 en ambos
+- averages.total_goals >= 2.0 o averages.total_corners >= 8.5 en al menos uno
+- y el contexto local_home/visitante_away no contradice
+
+Devuelve False si se cumple ALGUNA:
+- rates.ht_goal <= 0.35 en ambos
+- zero_streak >= 3 en algun equipo
+- averages.total_goals < 1.8 y averages.total_corners < 8.0 en ambos
+
+Si hay datos insuficientes o señales contradictorias, responde False.
+
+Responde solo True o False.

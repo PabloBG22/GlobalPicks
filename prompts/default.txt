@@ -1,0 +1,25 @@
+Evalua el pick usando solo el Resumen historico y las Tendencias (Trends).
+No uses modelo ni datos externos.
+
+Metodologia general
+1) Validar muestra
+- Si la muestra relevante < min_sample, responde False salvo senales muy fuertes.
+
+2) Evaluar tasas (rates)
+- Usa las tasas directamente relacionadas al mercado.
+- Si no existen, considera el mercado como no evaluable y responde False.
+
+3) Evaluar promedios (averages)
+- Confirma que el ritmo (goles/corners) respalde el mercado.
+
+4) Rachas (streaks)
+- Si hay rachas negativas largas (zero_streak >= 3), responde False.
+
+5) Contexto local/visita
+- Si hay bloques local_home/visitante_away y contradicen el caso, responde False.
+
+6) Tendencias (Trends)
+- Usa Trends solo como desempate, nunca para contradecir la evidencia.
+
+Regla de salida
+Responde solo True o False.

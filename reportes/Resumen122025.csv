@@ -1,0 +1,327 @@
+Hora,Liga,Local,Visitante,ODDS,Mercado,Marcador_HT,Marcador_FT,Corners_total,Estado,Prob_Modelo,Prob_Historico
+2025-12-01 08:00,Portugal LigaPro,Paços de Ferreira,Felgueiras 1932,1.92,BTTS YES,0-1,1-1,6,VERDE,62.0,62.0
+2025-12-01 11:00,Croatia Prva HNL,Gorica,Dinamo Zagreb,1.76,BTTS YES,0-1,0-2,7,ROJO,65.0,65.0
+2025-12-01 12:00,Poland Ekstraklasa,Motor Lublin,Legia Warszawa,1.58,BTTS YES,1-1,1-1,6,VERDE,67.0,67.0
+2025-12-01 14:00,England Championship,Birmingham City,Watford,1.88,BTTS YES,2-0,2-1,12,VERDE,60.0,60.0
+2025-12-01 08:00,Portugal LigaPro,Paços de Ferreira,Felgueiras 1932,1.44,GOL HT,0-1,1-1,6,VERDE,70.0,75.0
+2025-12-01 11:00,Turkey Süper Lig,Fenerbahçe,Galatasaray,1.3,GOL HT,0-1,1-1,10,VERDE,83.0,85.0
+2025-12-01 12:00,Poland Ekstraklasa,Motor Lublin,Legia Warszawa,1.32,GOL HT,1-1,1-1,6,VERDE,70.0,78.0
+2025-12-01 14:00,England Championship,Birmingham City,Watford,1.4,GOL HT,2-0,2-1,12,VERDE,75.0,75.0
+2025-12-01 08:00,Portugal LigaPro,Paços de Ferreira,Felgueiras 1932,1.37,OVER 1.5,0-1,1-1,6,VERDE,90.0,81.0
+2025-12-01 11:00,Turkey Süper Lig,Fenerbahçe,Galatasaray,1.22,OVER 1.5,0-1,1-1,10,VERDE,75.0,92.0
+2025-12-01 11:00,Croatia Prva HNL,Gorica,Dinamo Zagreb,1.2,OVER 1.5,0-1,0-2,7,VERDE,81.0,85.0
+2025-12-01 12:00,Poland Ekstraklasa,Motor Lublin,Legia Warszawa,1.2,OVER 1.5,1-1,1-1,6,VERDE,74.0,86.0
+2025-12-01 11:00,Turkey Süper Lig,Fenerbahçe,Galatasaray,,Team Over 1.5,0-1,1-1,10,ROJO,,
+2025-12-02 07:30,Netherlands Eredivisie,Ajax,Groningen,1.64,BTTS YES,1-0,2-0,8,ROJO,68.0,68.0
+2025-12-02 07:30,Netherlands Eredivisie,Ajax,Groningen,1.3,GOL HT,1-0,2-0,8,VERDE,84.0,79.0
+2025-12-02 10:00,Bulgaria First League,Arda,Botev Plovdiv,1.58,GOL HT,0-0,0-0,14,ROJO,83.0,72.0
+2025-12-02 07:30,Netherlands Eredivisie,Ajax,Groningen,1.2,OVER 1.5,1-0,2-0,8,VERDE,92.0,86.0
+2025-12-02 10:00,Bulgaria First League,Arda,Botev Plovdiv,1.48,OVER 1.5,0-0,0-0,14,ROJO,78.0,78.0
+2025-12-02 16:00,,Vasco da Gama,Mirassol,1.28,OVER 1.5,0-0,0-2,11,VERDE,81.0,80.0
+2025-12-02 14:00,Spain La Liga,FC Barcelona,Atlético Madrid,,Team Over 1.5,1-1,3-1,9,VERDE,,
+2025-12-03 10:00,Bulgaria First League,CSKA Sofia,Lokomotiv Plovdiv,1.98,BTTS YES,1-0,2-1,4,VERDE,68.0,68.0
+2025-12-03 10:00,Bulgaria First League,CSKA Sofia,Lokomotiv Plovdiv,1.38,GOL HT,1-0,2-1,4,VERDE,82.0,81.0
+2025-12-03 13:30,England Premier League,Arsenal,Brentford,1.37,GOL HT,1-0,2-0,12,VERDE,92.0,74.0
+2025-12-03 21:10,Mexico Liga MX,Monterrey,Toluca,1.31,GOL HT,1-0,1-0,10,VERDE,87.0,78.0
+2025-12-03 10:00,Bulgaria First League,CSKA Sofia,Lokomotiv Plovdiv,1.33,OVER 1.5,1-0,2-1,4,VERDE,76.0,89.0
+2025-12-03 16:00,,Fortaleza,Corinthians,1.45,OVER 1.5,1-0,2-1,7,VERDE,70.0,73.0
+2025-12-03 19:00,Mexico Liga MX,Cruz Azul,Tigres UANL,1.28,OVER 1.5,0-0,1-1,7,VERDE,79.0,89.0
+2025-12-03 10:00,Bulgaria First League,CSKA Sofia,Lokomotiv Plovdiv,,Team Over 1.5,1-0,2-1,4,VERDE,,
+2025-12-03 12:00,Spain La Liga,Athletic Club Bilbao,Real Madrid,,Team Over 1.5,0-2,0-3,12,VERDE,,
+2025-12-04 10:00,Bulgaria First League,Slavia Sofia,Levski Sofia,1.38,GOL HT,2-0,2-0,7,VERDE,71.0,81.0
+2025-12-04 10:00,Bulgaria First League,Slavia Sofia,Levski Sofia,1.27,OVER 1.5,2-0,2-0,7,VERDE,71.0,88.0
+2025-12-04 10:00,Bulgaria First League,Slavia Sofia,Levski Sofia,,Team Over 1.5,2-0,2-0,7,ROJO,,
+2025-12-05 11:00,Croatia Prva HNL,Slaven Koprivnica,Gorica,1.79,BTTS YES,1-1,2-1,6,VERDE,64.0,64.0
+2025-12-05 11:00,Turkey Süper Lig,Galatasaray,Samsunspor,1.66,BTTS YES,2-0,3-2,4,VERDE,65.0,66.0
+2025-12-05 13:00,Netherlands Eerste Divisie,ADO Den Haag,Emmen,1.72,BTTS YES,1-1,2-1,14,VERDE,71.0,71.0
+2025-12-05 13:30,Poland Ekstraklasa,Lechia Gdańsk,Górnik Zabrze,1.57,BTTS YES,3-2,5-2,9,VERDE,68.0,68.0
+2025-12-05 11:00,Croatia Prva HNL,Slaven Koprivnica,Gorica,1.41,GOL HT,1-1,2-1,6,VERDE,77.0,77.0
+2025-12-05 11:00,Czech Republic First League,Teplice,Slavia Praha,1.41,GOL HT,0-0,1-2,8,ROJO,75.0,74.0
+2025-12-05 11:00,Turkey Süper Lig,Galatasaray,Samsunspor,1.27,GOL HT,2-0,3-2,4,VERDE,77.0,80.0
+2025-12-05 13:30,Poland Ekstraklasa,Lechia Gdańsk,Górnik Zabrze,1.33,GOL HT,3-2,5-2,9,VERDE,77.0,80.0
+2025-12-05 11:00,Croatia Prva HNL,Slaven Koprivnica,Gorica,1.29,OVER 1.5,1-1,2-1,6,VERDE,85.0,83.0
+2025-12-05 13:30,Poland Ekstraklasa,Lechia Gdańsk,Górnik Zabrze,1.21,OVER 1.5,3-2,5-2,9,VERDE,85.0,87.0
+2025-12-05 13:00,Netherlands Eerste Divisie,ADO Den Haag,Emmen,,Team Over 1.5,1-1,2-1,14,VERDE,,
+2025-12-05 11:00,Turkey Süper Lig,Galatasaray,Samsunspor,,Team Over 1.5,2-0,3-2,4,VERDE,,
+2025-12-05 13:00,Netherlands Eerste Divisie,Almere City,Ajax II,,Team Over 1.5,1-0,3-2,15,VERDE,,
+2025-12-06 06:00,Germany 2. Bundesliga,Kaiserslautern,Dynamo Dresden,1.31,GOL HT,1-0,3-1,10,VERDE,86.0,80.0
+2025-12-06 06:00,Germany 2. Bundesliga,Paderborn,Elversberg,1.3,GOL HT,0-1,1-2,13,VERDE,79.0,79.0
+2025-12-06 06:00,Germany 2. Bundesliga,Bochum,Arminia Bielefeld,1.3,GOL HT,0-0,1-0,9,ROJO,75.0,79.0
+2025-12-06 08:00,Croatia Prva HNL,Dinamo Zagreb,Hajduk Split,1.38,GOL HT,0-0,1-1,10,ROJO,86.0,81.0
+2025-12-06 08:00,Czech Republic First League,Slovácko,Viktoria Plzeň,1.33,GOL HT,2-0,3-0,6,VERDE,76.0,78.0
+2025-12-06 09:00,England Championship,Ipswich Town,Coventry City,1.33,GOL HT,1-0,3-0,7,VERDE,73.0,82.0
+2025-12-06 06:00,Germany 2. Bundesliga,Paderborn,Elversberg,1.23,OVER 1.5,0-1,1-2,13,VERDE,86.0,86.0
+2025-12-06 07:00,Spain La Liga,Villarreal,Getafe CF,1.35,OVER 1.5,1-0,2-0,8,VERDE,79.0,81.0
+2025-12-06 08:00,Croatia Prva HNL,Dinamo Zagreb,Hajduk Split,1.33,OVER 1.5,0-0,1-1,10,VERDE,86.0,88.0
+2025-12-06 08:00,Czech Republic First League,Dukla Praha,Slovan Liberec,1.36,OVER 1.5,1-0,1-1,14,VERDE,82.0,79.0
+2025-12-06 09:00,Romania Liga I,Csikszereda,Argeș,1.46,OVER 1.5,0-1,0-2,6,VERDE,84.0,77.0
+2025-12-06 09:00,England Premier League,Everton,Nottingham Forest,1.36,OVER 1.5,2-0,3-0,9,VERDE,86.0,77.0
+2025-12-06 10:30,Poland Ekstraklasa,Zagłębie Lubin,Widzew Łódź,1.28,OVER 1.5,0-1,2-1,7,VERDE,82.0,80.0
+2025-12-06 11:15,Belgium Pro League,Union Saint-Gilloise,KAA Gent,1.2,OVER 1.5,0-1,1-1,8,VERDE,88.0,86.0
+2025-12-06 12:00,Portugal LigaPro,Benfica II,UD Oliveirense,1.24,OVER 1.5,1-0,2-0,15,VERDE,70.0,85.0
+2025-12-06 21:10,Mexico Liga MX,Tigres UANL,Cruz Azul,1.26,OVER 1.5,1-0,1-1,13,VERDE,80.0,88.0
+2025-12-06 14:05,France Ligue 1,PSG,Rennes,,Team Over 1.5,2-0,5-0,14,VERDE,,
+2025-12-06 13:30,,Inter Miami,Vancouver Whitecaps,,Team Over 1.5,1-0,3-1,2,VERDE,,
+2025-12-06 11:30,Spain La Liga,Real Betis,FC Barcelona,,Team Over 1.5,1-4,3-5,14,VERDE,,
+2025-12-06 08:30,Germany Bundesliga,Stuttgart,Bayern München,,Team Over 1.5,0-1,0-5,7,VERDE,,
+2025-12-06 11:00,Italy Serie A,Inter Milan,Como,,Team Over 1.5,1-0,4-0,11,VERDE,,
+2025-12-06 14:00,Netherlands Eredivisie,Feyenoord,PEC Zwolle,,Team Over 1.5,4-0,6-1,12,VERDE,,
+2025-12-07 08:00,Portugal LigaPro,CD Feirense,Academico Viseu,1.85,BTTS YES,0-0,0-0,12,ROJO,68.0,68.0
+2025-12-07 12:30,Romania Liga I,CS U Craiova,CFR Cluj,1.82,BTTS YES,1-0,1-1,11,VERDE,65.0,65.0
+2025-12-07 05:15,Netherlands Eredivisie,Utrecht,Twente,1.36,GOL HT,0-0,1-1,14,ROJO,72.0,79.0
+2025-12-07 11:30,Spain Segunda División,SD Eibar,Cultural y Deportiva Leonesa,1.38,GOL HT,1-1,1-2,12,VERDE,76.0,77.0
+2025-12-07 11:30,Belgium Pro League,Royal Antwerp FC,KRC Genk,1.36,GOL HT,2-0,3-0,13,VERDE,82.0,77.0
+2025-12-07 05:15,Netherlands Eredivisie,Utrecht,Twente,1.22,OVER 1.5,0-0,1-1,14,VERDE,71.0,86.0
+2025-12-07 07:45,Poland Ekstraklasa,Cracovia Kraków,Lech Poznań,1.24,OVER 1.5,1-1,2-2,12,VERDE,76.0,83.0
+2025-12-07 08:00,Portugal LigaPro,CD Feirense,Academico Viseu,1.35,OVER 1.5,0-0,0-0,12,ROJO,90.0,86.0
+2025-12-07 08:00,Croatia Prva HNL,Varaždin,Lokomotiva Zagreb,1.3,OVER 1.5,0-2,4-2,8,VERDE,86.0,82.0
+2025-12-07 09:15,Spain La Liga,Valencia CF,Sevilla FC,1.4,OVER 1.5,0-0,1-1,4,VERDE,86.0,74.0
+2025-12-07 09:30,Romania Liga I,Metaloglobus,SSC Farul,1.28,OVER 1.5,2-0,2-1,16,VERDE,84.0,80.0
+2025-12-07 11:00,Denmark Superliga,København,SønderjyskE,1.24,OVER 1.5,0-2,0-2,12,VERDE,75.0,84.0
+2025-12-07 12:30,Romania Liga I,CS U Craiova,CFR Cluj,1.35,OVER 1.5,1-0,1-1,11,VERDE,84.0,84.0
+2025-12-07 12:30,Italy Serie B,Sampdoria,Carrarese,1.4,OVER 1.5,2-2,3-2,8,VERDE,79.0,78.0
+2025-12-07 13:00,,Atlético Mineiro,Vasco da Gama,1.3,OVER 1.5,2-0,5-0,7,VERDE,78.0,82.0
+2025-12-07 13:00,,Ceará,Palmeiras,1.33,OVER 1.5,1-1,1-3,14,VERDE,72.0,78.0
+2025-12-07 13:00,,Fluminense,Bahia,1.3,OVER 1.5,0-0,2-0,9,VERDE,70.0,79.0
+2025-12-07 14:00,Spain La Liga,Real Madrid,Celta de Vigo,,Team Over 1.5,0-0,0-2,9,ROJO,,
+2025-12-07 09:00,Bulgaria First League,Spartak Varna,Levski Sofia,,Team Over 1.5,0-2,1-3,11,VERDE,,
+2025-12-08 08:00,Italy Serie B,Mantova,Reggiana,1.44,GOL HT,0-0,0-1,13,ROJO,79.0,74.0
+2025-12-08 08:00,Italy Serie B,Frosinone,Juve Stabia,1.44,GOL HT,1-0,3-0,5,VERDE,77.0,72.0
+2025-12-08 09:30,Portugal LigaPro,Farense,FC Vizela,1.44,GOL HT,1-0,2-0,4,VERDE,72.0,77.0
+2025-12-08 08:00,Italy Serie B,Calcio Padova,Cesena,1.49,OVER 1.5,0-0,1-1,6,VERDE,73.0,73.0
+2025-12-08 08:00,Italy Serie B,Mantova,Reggiana,1.28,OVER 1.5,0-0,0-1,13,ROJO,79.0,81.0
+2025-12-08 08:00,Italy Serie B,Frosinone,Juve Stabia,1.34,OVER 1.5,1-0,3-0,5,VERDE,85.0,77.0
+2025-12-08 09:30,Portugal LigaPro,Farense,FC Vizela,1.32,OVER 1.5,1-0,2-0,4,VERDE,82.0,84.0
+2025-12-08 11:00,Italy Serie A,Udinese,Genoa,1.54,OVER 1.5,0-1,1-2,8,VERDE,92.0,75.0
+2025-12-08 12:00,Poland Ekstraklasa,Korona Kielce,Wisła Płock,1.34,OVER 1.5,0-1,1-1,8,VERDE,71.0,80.0
+2025-12-08 12:30,Romania Liga I,Botoşani,Rapid Bucureşti,1.34,OVER 1.5,0-0,0-0,8,ROJO,89.0,76.0
+2025-12-08 09:30,Bulgaria First League,Ludogorets,Slavia Sofia,,Team Over 1.5,0-1,1-1,13,ROJO,,
+2025-12-09 11:45,Europe UEFA Champions League,Bayern München,Sporting CP,1.84,BTTS YES,0-0,3-1,7,VERDE,68.0,68.0
+2025-12-09 13:45,England EFL League Two,Cambridge United,Chesterfield,1.95,BTTS YES,1-0,1-1,6,VERDE,57.0,57.0
+2025-12-09 13:45,England Championship,Preston North End,Coventry City,1.36,GOL HT,0-0,1-1,12,ROJO,80.0,76.0
+2025-12-09 13:45,England EFL League Two,Barnet,Bristol Rovers,1.38,GOL HT,2-0,4-0,14,VERDE,84.0,74.0
+2025-12-09 14:00,Europe UEFA Champions League,Inter Milan,Liverpool,1.27,GOL HT,0-0,0-1,9,ROJO,90.0,86.0
+2025-12-09 14:00,Europe UEFA Champions League,Atalanta,Chelsea,1.35,GOL HT,0-1,2-1,7,VERDE,70.0,76.0
+2025-12-09 13:45,England Championship,Preston North End,Coventry City,1.26,OVER 1.5,0-0,1-1,12,VERDE,75.0,83.0
+2025-12-09 13:45,England Championship,Charlton Athletic,Middlesbrough,1.31,OVER 1.5,0-2,1-2,10,VERDE,72.0,80.0
+2025-12-09 13:45,England EFL League Two,Cambridge United,Chesterfield,1.33,OVER 1.5,1-0,1-1,6,VERDE,73.0,77.0
+2025-12-09 14:00,Europe UEFA Champions League,Union Saint-Gilloise,Olympique Marseille,1.26,OVER 1.5,1-2,2-3,5,VERDE,80.0,81.0
+2025-12-09 11:45,Europe UEFA Champions League,Bayern München,Sporting CP,,Team Over 1.5,0-0,3-1,7,VERDE,,
+2025-12-09 14:00,Europe UEFA Champions League,PSV,Atlético Madrid,,Team Over 1.5,1-1,2-3,14,VERDE,,
+2025-12-10 14:00,Europe UEFA Champions League,Real Madrid,Manchester City,1.19,GOL HT,1-2,1-2,6,VERDE,70.0,87.0
+2025-12-10 14:00,Europe UEFA Champions League,Athletic Club Bilbao,PSG,1.31,GOL HT,0-0,0-0,10,ROJO,80.0,81.0
+2025-12-10 14:00,Europe UEFA Champions League,Club Brugge,Arsenal,1.29,GOL HT,0-1,0-3,6,VERDE,75.0,79.0
+2025-12-10 13:00,Netherlands Eerste Divisie,Vitesse,RKC Waalwijk,1.2,OVER 1.5,1-0,2-1,10,VERDE,84.0,85.0
+2025-12-10 14:00,Europe UEFA Champions League,Club Brugge,Arsenal,,Team Over 1.5,0-1,0-3,6,VERDE,,
+2025-12-10 14:00,Europe UEFA Champions League,Athletic Club Bilbao,PSG,,Team Over 1.5,0-0,0-0,10,ROJO,,
+2025-12-10 14:00,Europe UEFA Champions League,Borussia Dortmund,FK Bodo - Glimt,,Team Over 1.5,1-1,2-2,14,VERDE,,
+2025-12-11 11:45,Europe UEFA Europa League,Ludogorets,PAOK,1.75,BTTS YES,1-1,3-3,6,VERDE,65.0,65.0
+2025-12-11 14:00,Europe UEFA Europa League,Celta de Vigo,Bologna,1.71,BTTS YES,1-0,1-2,5,VERDE,70.0,70.0
+2025-12-11 11:45,Europe UEFA Europa Conference League,Samsunspor,AEK Athens,1.4,GOL HT,1-0,1-2,11,VERDE,85.0,78.0
+2025-12-11 11:45,Europe UEFA Europa League,Utrecht,Nottingham Forest,1.4,GOL HT,0-0,1-2,12,ROJO,72.0,74.0
+2025-12-11 11:45,Europe UEFA Europa League,Ludogorets,PAOK,1.33,GOL HT,1-1,3-3,6,VERDE,72.0,77.0
+2025-12-11 11:45,Europe UEFA Europa League,Midtjylland,KRC Genk,1.3,GOL HT,1-0,1-0,10,VERDE,77.0,78.0
+2025-12-11 14:00,Europe UEFA Europa League,Celta de Vigo,Bologna,1.42,GOL HT,1-0,1-2,5,VERDE,80.0,81.0
+2025-12-11 14:00,Europe UEFA Europa League,Celtic,Roma,1.4,GOL HT,0-3,0-3,8,VERDE,80.0,75.0
+2025-12-11 14:00,Europe UEFA Europa Conference League,Rapid Wien,Omonia Nicosia,1.34,GOL HT,0-1,0-1,4,VERDE,90.0,77.0
+2025-12-11 14:00,Europe UEFA Europa Conference League,Raków Częstochowa,Zrinjski,1.38,GOL HT,1-0,1-0,10,VERDE,75.0,74.0
+2025-12-11 11:45,Europe UEFA Europa League,Ludogorets,PAOK,1.31,OVER 1.5,1-1,3-3,6,VERDE,78.0,84.0
+2025-12-11 11:45,Europe UEFA Europa Conference League,Samsunspor,AEK Athens,1.29,OVER 1.5,1-0,1-2,11,VERDE,73.0,84.0
+2025-12-11 11:45,Europe UEFA Europa Conference League,CS U Craiova,Sparta Praha,1.42,OVER 1.5,0-0,1-2,8,VERDE,70.0,79.0
+2025-12-11 11:45,Europe UEFA Europa Conference League,Jagiellonia Białystok,Rayo Vallecano,1.21,OVER 1.5,1-1,1-2,10,VERDE,77.0,87.0
+2025-12-11 11:45,Europe UEFA Europa League,Utrecht,Nottingham Forest,1.3,OVER 1.5,0-0,1-2,12,VERDE,77.0,80.0
+2025-12-11 14:00,Europe UEFA Europa League,Celta de Vigo,Bologna,1.3,OVER 1.5,1-0,1-2,5,VERDE,80.0,88.0
+2025-12-11 14:00,Europe UEFA Europa League,Celtic,Roma,1.3,OVER 1.5,0-3,0-3,8,VERDE,90.0,81.0
+2025-12-11 11:45,Europe UEFA Europa Conference League,Jagiellonia Białystok,Rayo Vallecano,,Team Over 1.5,1-1,1-2,10,VERDE,,
+2025-12-11 14:00,Europe UEFA Europa Conference League,Lech Poznań,Mainz 05,,Team Over 1.5,1-1,1-1,7,ROJO,,
+2025-12-11 11:45,Europe UEFA Europa League,Midtjylland,KRC Genk,,Team Over 1.5,1-0,1-0,10,ROJO,,
+2025-12-11 11:45,Europe UEFA Europa League,Dinamo Zagreb,Real Betis,,Team Over 1.5,0-3,1-3,9,VERDE,,
+2025-12-11 11:45,Europe UEFA Europa League,Utrecht,Nottingham Forest,,Team Over 1.5,0-0,1-2,12,VERDE,,
+2025-12-11 11:45,Europe UEFA Europa Conference League,Fiorentina,Dynamo Kyiv,,Team Over 1.5,1-0,2-1,10,VERDE,,
+2025-12-11 14:00,Europe UEFA Europa Conference League,Aberdeen,Strasbourg,,Team Over 1.5,0-1,0-1,16,ROJO,,
+2025-12-11 14:00,Europe UEFA Europa Conference League,Hamrun Spartans,Shakhtar Donetsk,,Team Over 1.5,0-0,0-2,7,VERDE,,
+2025-12-11 14:00,Europe UEFA Europa Conference League,Rijeka,Celje,,Team Over 1.5,0-0,3-0,7,ROJO,,
+2025-12-12 13:30,Germany Bundesliga,Union Berlin,RB Leipzig,1.38,GOL HT,0-0,3-1,10,ROJO,79.0,74.0
+2025-12-12 12:00,Portugal LigaPro,UD Oliveirense,GD Chaves,1.36,OVER 1.5,1-1,2-3,11,VERDE,71.0,75.0
+2025-12-12 13:00,France Ligue 2,Annecy,Le Mans,1.51,OVER 1.5,0-1,1-2,10,VERDE,79.0,71.0
+2025-12-12 13:00,Netherlands Eerste Divisie,Dordrecht,Eindhoven,1.22,OVER 1.5,1-2,3-4,12,VERDE,73.0,83.0
+2025-12-12 13:30,Italy Serie B,Palermo,Sampdoria,1.36,OVER 1.5,1-0,1-0,6,ROJO,73.0,82.0
+2025-12-12 13:00,Netherlands Eerste Divisie,De Graafschap,Roda JC,,Team Over 1.5,2-0,2-3,11,VERDE,,
+2025-12-12 13:00,Netherlands Eerste Divisie,Oss,ADO Den Haag,,Team Over 1.5,0-2,3-4,18,VERDE,,
+2025-12-13 09:00,England Championship,Leicester City,Ipswich Town,1.93,BTTS YES,2-0,3-1,11,VERDE,61.0,61.0
+2025-12-13 09:00,England Championship,Coventry City,Bristol City,1.31,GOL HT,0-0,1-0,9,ROJO,78.0,80.0
+2025-12-13 09:00,England Championship,Portsmouth,Blackburn Rovers,1.4,GOL HT,0-1,2-1,13,VERDE,79.0,75.0
+2025-12-13 09:00,England EFL League Two,Crawley Town,Oldham Athletic,1.34,GOL HT,1-0,2-2,11,VERDE,73.0,77.0
+2025-12-13 09:15,Spain Segunda División,Real Valladolid,FC Andorra,1.36,GOL HT,0-0,0-1,14,ROJO,73.0,79.0
+2025-12-13 11:00,Czech Republic First League,Slavia Praha,Jablonec,1.3,GOL HT,2-2,4-3,9,VERDE,78.0,81.0
+2025-12-13 05:00,Portugal LigaPro,União de Leiria,Felgueiras 1932,1.22,OVER 1.5,2-1,2-3,10,VERDE,84.0,84.0
+2025-12-13 06:30,England Championship,Oxford United,Preston North End,1.33,OVER 1.5,0-1,1-2,18,VERDE,73.0,78.0
+2025-12-13 08:00,Italy Serie B,Venezia,Monza,1.38,OVER 1.5,0-0,2-0,8,VERDE,93.0,85.0
+2025-12-13 08:00,Portugal LigaPro,Academico Viseu,Farense,1.27,OVER 1.5,1-0,3-0,10,VERDE,77.0,86.0
+2025-12-13 08:00,Croatia Prva HNL,Osijek,Gorica,1.27,OVER 1.5,0-1,1-1,10,VERDE,79.0,83.0
+2025-12-13 09:00,England Championship,Leicester City,Ipswich Town,1.34,OVER 1.5,2-0,3-1,11,VERDE,89.0,80.0
+2025-12-13 09:00,England Championship,Birmingham City,Charlton Athletic,1.33,OVER 1.5,1-0,1-1,13,VERDE,74.0,81.0
+2025-12-13 09:00,England Championship,Millwall,Hull City,1.3,OVER 1.5,0-2,1-3,6,VERDE,80.0,79.0
+2025-12-13 10:45,Croatia Prva HNL,Lokomotiva Zagreb,Hajduk Split,1.36,OVER 1.5,1-1,1-3,6,VERDE,75.0,80.0
+2025-12-13 11:00,Czech Republic First League,Slavia Praha,Jablonec,1.2,OVER 1.5,2-2,4-3,9,VERDE,78.0,88.0
+2025-12-13 12:30,Romania Liga I,Rapid Bucureşti,Oţelul Galaţi,1.35,OVER 1.5,0-1,0-2,5,VERDE,78.0,82.0
+2025-12-13 11:00,Czech Republic First League,Slavia Praha,Jablonec,,Team Over 1.5,2-2,4-3,9,VERDE,,
+2025-12-13 13:00,Netherlands Eredivisie,PSV,Heracles,,Team Over 1.5,2-1,4-3,14,VERDE,,
+2025-12-13 11:30,Spain La Liga,FC Barcelona,CA Osasuna,,Team Over 1.5,0-0,2-0,15,VERDE,,
+2025-12-14 07:45,Poland Ekstraklasa,Raków Częstochowa,Zagłębie Lubin,1.95,BTTS YES,0-0,0-1,2,ROJO,61.0,61.0
+2025-12-14 11:30,Czech Republic First League,Sparta Praha,Slovan Liberec,1.94,BTTS YES,1-1,2-2,11,VERDE,73.0,73.0
+2025-12-14 06:30,Germany 2. Bundesliga,Schalke 04,Nürnberg,1.4,GOL HT,0-0,1-0,7,ROJO,71.0,75.0
+2025-12-14 08:00,Croatia Prva HNL,Slaven Koprivnica,Dinamo Zagreb,1.33,GOL HT,1-4,2-5,6,VERDE,82.0,80.0
+2025-12-14 09:45,Netherlands Eredivisie,NAC Breda,Utrecht,1.4,GOL HT,1-1,1-1,11,VERDE,79.0,74.0
+2025-12-14 11:00,Turkey Süper Lig,Trabzonspor,Beşiktaş,1.35,GOL HT,1-3,3-3,8,VERDE,94.0,79.0
+2025-12-14 11:30,Czech Republic First League,Sparta Praha,Slovan Liberec,1.39,GOL HT,1-1,2-2,11,VERDE,78.0,83.0
+2025-12-14 05:00,Portugal LigaPro,Portimonense,Leixões,1.3,OVER 1.5,1-0,1-2,9,VERDE,93.0,79.0
+2025-12-14 08:00,Italy Serie B,Carrarese,Virtus Entella,1.38,OVER 1.5,0-0,3-1,11,VERDE,72.0,76.0
+2025-12-14 08:00,Croatia Prva HNL,Slaven Koprivnica,Dinamo Zagreb,1.24,OVER 1.5,1-4,2-5,6,VERDE,88.0,87.0
+2025-12-14 08:00,Italy Serie A,Fiorentina,Hellas Verona,1.39,OVER 1.5,0-1,1-2,13,VERDE,77.0,74.0
+2025-12-14 09:15,Spain La Liga,Celta de Vigo,Athletic Club Bilbao,1.4,OVER 1.5,0-0,2-0,5,VERDE,80.0,76.0
+2025-12-14 10:00,Austria Bundesliga,Austria Wien,Sturm Graz,1.23,OVER 1.5,2-1,3-1,9,VERDE,76.0,86.0
+2025-12-14 10:15,Italy Serie B,Pescara,Frosinone,1.21,OVER 1.5,1-1,1-2,12,VERDE,76.0,85.0
+2025-12-14 10:30,Poland Ekstraklasa,Motor Lublin,Jagiellonia Białystok,1.21,OVER 1.5,1-1,1-1,12,VERDE,79.0,84.0
+2025-12-14 11:00,Italy Serie A,Genoa,Inter Milan,1.3,OVER 1.5,0-2,1-2,7,VERDE,70.0,82.0
+2025-12-14 11:30,Spain Segunda División,Almería,Burgos CF,1.41,OVER 1.5,1-1,1-2,4,VERDE,75.0,84.0
+2025-12-14 11:30,Czech Republic First League,Sparta Praha,Slovan Liberec,1.26,OVER 1.5,1-1,2-2,11,VERDE,89.0,90.0
+2025-12-14 12:00,Portugal LigaPro,Paços de Ferreira,Lusitania Lourosa,1.42,OVER 1.5,1-3,1-5,5,VERDE,83.0,77.0
+2025-12-14 14:00,Spain La Liga,Deportivo Alavés,Real Madrid,1.24,OVER 1.5,0-1,1-2,12,VERDE,71.0,86.0
+2025-12-14 10:30,Germany Bundesliga,Bayern München,Mainz 05,,Team Over 1.5,1-1,2-2,7,VERDE,,
+2025-12-14 11:30,Spain Segunda División,Almería,Burgos CF,,Team Over 1.5,1-1,1-2,4,ROJO,,
+2025-12-14 14:00,Spain La Liga,Deportivo Alavés,Real Madrid,,Team Over 1.5,0-1,1-2,12,VERDE,,
+2025-12-14 11:30,Czech Republic First League,Sparta Praha,Slovan Liberec,,Team Over 1.5,1-1,2-2,11,VERDE,,
+2025-12-14 07:30,Netherlands Eredivisie,Twente,Go Ahead Eagles,,Team Over 1.5,2-0,2-0,9,VERDE,,
+2025-12-15 11:00,Turkey Süper Lig,Fenerbahçe,Konyaspor,1.85,BTTS YES,3-0,4-0,8,ROJO,68.0,68.0
+2025-12-15 13:30,Spain Segunda División,CD Castellón,Mirandés,1.91,BTTS YES,1-1,3-1,9,VERDE,56.0,56.0
+2025-12-15 09:30,Romania Liga I,SSC Farul,UTA Arad,1.4,GOL HT,1-0,1-1,7,VERDE,84.0,74.0
+2025-12-15 09:30,Romania Liga I,SSC Farul,UTA Arad,1.29,OVER 1.5,1-0,1-1,7,VERDE,89.0,81.0
+2025-12-15 11:00,Turkey Süper Lig,Fenerbahçe,Konyaspor,,Team Over 1.5,3-0,4-0,8,VERDE,,
+2025-12-16 11:00,Portugal LigaPro,CS Marítimo,Benfica II,1.87,BTTS YES,1-1,1-1,9,VERDE,60,60
+2025-12-16 13:30,Switzerland Super League,St. Gallen,Sion,1.67,BTTS YES,0-1,3-1,13,VERDE,65,65
+2025-12-16 11:00,Portugal LigaPro,CS Marítimo,Benfica II,1.34,GOL HT,1-1,1-1,9,VERDE,79,75
+2025-12-16 11:00,Portugal LigaPro,CS Marítimo,Benfica II,1.29,OVER 1.5,1-1,1-1,9,VERDE,88,82
+2025-12-17 13:30,Switzerland Super League,Zürich,Lugano,1.5,BTTS YES,0-0,0-1,7,ROJO,71,71
+2025-12-17 13:30,Switzerland Super League,Zürich,Lugano,1.3,GOL HT,0-0,0-1,7,ROJO,82,81
+2025-12-18 14:00,Europe UEFA Europa Conference League,AEK Athens,CS U Craiova,2.1,BTTS YES,0-1,3-2,11,VERDE,60.0,60.0
+2025-12-18 14:00,Europe UEFA Europa Conference League,Sigma Olomouc,Lech Poznań,1.83,BTTS YES,0-2,1-2,4,VERDE,63.0,62.0
+2025-12-18 14:00,Europe UEFA Europa Conference League,Sigma Olomouc,Lech Poznań,1.51,GOL HT,0-2,1-2,4,VERDE,80.0,76.0
+2025-12-18 14:00,Europe UEFA Europa Conference League,Omonia Nicosia,Raków Częstochowa,1.46,GOL HT,0-0,0-1,2,ROJO,73.0,75.0
+2025-12-18 14:00,Europe UEFA Europa Conference League,Zrinjski,Rapid Wien,1.4,GOL HT,0-1,1-1,8,VERDE,96.0,77.0
+2025-12-18 14:00,Europe UEFA Europa Conference League,Lausanne Sport,Fiorentina,1.35,GOL HT,0-0,1-0,13,ROJO,87.0,79.0
+2025-12-18 14:00,Europe UEFA Europa Conference League,Zrinjski,Rapid Wien,1.33,OVER 1.5,0-1,1-1,8,VERDE,71.0,83.0
+2025-12-18 14:00,Europe UEFA Europa Conference League,Sigma Olomouc,Lech Poznań,1.33,OVER 1.5,0-2,1-2,4,VERDE,100.0,82.0
+2025-12-18 14:00,Europe UEFA Europa Conference League,AEK Athens,CS U Craiova,1.28,OVER 1.5,0-1,3-2,11,VERDE,78.0,81.0
+2025-12-18 14:00,Europe UEFA Europa Conference League,Rayo Vallecano,Drita,,Team Over 1.5,1-0,3-0,7,VERDE,,
+2025-12-18 14:00,Europe UEFA Europa Conference League,Sigma Olomouc,Lech Poznań,,Team Over 1.5,0-2,1-2,4,VERDE,,
+2025-12-18 14:00,Europe UEFA Europa Conference League,Strasbourg,Breidablik,,Team Over 1.5,1-1,3-1,11,VERDE,,
+2025-12-18 14:00,Europe UEFA Europa Conference League,Shakhtar Donetsk,Rijeka,,Team Over 1.5,0-0,0-0,4,ROJO,,
+2025-12-18 14:00,Europe UEFA Europa Conference League,Celje,Shelbourne,,Team Over 1.5,0-0,0-0,13,ROJO,,
+2025-12-19 13:00,Netherlands Eerste Divisie,ADO Den Haag,PSV II,1.57,BTTS YES,1-1,1-2,11,VERDE,75.0,75.0
+2025-12-19 13:45,Belgium Pro League,Sporting Charleroi,KRC Genk,1.78,BTTS YES,1-1,2-2,9,VERDE,61.0,61.0
+2025-12-19 09:00,Croatia Prva HNL,Varaždin,Istra 1961,1.49,GOL HT,1-1,1-3,14,VERDE,88.0,71.0
+2025-12-19 12:00,Romania Liga I,Botoşani,CFR Cluj,1.42,GOL HT,0-1,0-1,8,VERDE,75.0,73.0
+2025-12-19 13:45,England EFL League Two,Cambridge United,Accrington Stanley,1.51,GOL HT,1-0,2-0,13,VERDE,75.0,73.0
+2025-12-19 13:45,Belgium Pro League,Sporting Charleroi,KRC Genk,1.41,GOL HT,1-1,2-2,9,VERDE,84.0,75.0
+2025-12-19 09:00,Croatia Prva HNL,Varaždin,Istra 1961,1.4,OVER 1.5,1-1,1-3,14,VERDE,75.0,76.0
+2025-12-19 13:45,Belgium Pro League,Sporting Charleroi,KRC Genk,1.37,OVER 1.5,1-1,2-2,9,VERDE,84.0,81.0
+2025-12-19 13:45,England EFL League Two,Cambridge United,Accrington Stanley,1.4,OVER 1.5,1-0,2-0,13,VERDE,75.0,79.0
+2025-12-19 14:00,Spain La Liga,Valencia CF,RCD Mallorca,1.48,OVER 1.5,0-1,1-1,15,VERDE,82.0,75.0
+2025-12-19 13:00,Netherlands Eerste Divisie,ADO Den Haag,PSV II,,Team Over 1.5,1-1,1-2,11,ROJO,,
+2025-12-20 10:45,Croatia Prva HNL,Dinamo Zagreb,Lokomotiva Zagreb,2.0,BTTS YES,1-0,2-0,1,ROJO,67.0,68.0
+2025-12-20 06:30,England EFL League Two,Bromley,Grimsby Town,1.38,GOL HT,1-0,2-0,9,VERDE,85.0,76.0
+2025-12-20 10:45,Croatia Prva HNL,Dinamo Zagreb,Lokomotiva Zagreb,1.3,GOL HT,1-0,2-0,1,VERDE,88.0,80.0
+2025-12-20 13:30,Switzerland Super League,Basel,Servette,1.25,GOL HT,0-1,1-1,7,VERDE,71.0,82.0
+2025-12-20 06:30,England Championship,Blackburn Rovers,Millwall,1.38,OVER 1.5,2-0,2-0,9,VERDE,85.0,75.0
+2025-12-20 08:00,Italy Serie B,Modena,Venezia,1.38,OVER 1.5,0-1,1-2,10,VERDE,82.0,88.0
+2025-12-20 08:00,Italy Serie B,Cesena,Juve Stabia,1.47,OVER 1.5,1-1,1-1,6,VERDE,87.0,73.0
+2025-12-20 08:00,Italy Serie B,Calcio Padova,Sampdoria,1.52,OVER 1.5,0-1,1-1,7,VERDE,75.0,70.0
+2025-12-20 09:00,Romania Liga I,Oţelul Galaţi,Argeș,1.43,OVER 1.5,0-0,2-1,11,VERDE,70.0,77.0
+2025-12-20 09:00,England Championship,Queens Park Rangers,Leicester City,1.3,OVER 1.5,4-0,4-1,5,VERDE,81.0,79.0
+2025-12-20 09:00,England EFL League Two,Barnet,Salford City,1.2,OVER 1.5,0-2,1-3,7,VERDE,85.0,85.0
+2025-12-20 09:00,England EFL League Two,Oldham Athletic,Tranmere Rovers,1.29,OVER 1.5,1-1,3-1,8,VERDE,75.0,79.0
+2025-12-20 09:30,Portugal LigaPro,FC Vizela,Academico Viseu,1.3,OVER 1.5,0-0,0-0,8,ROJO,85.0,85.0
+2025-12-20 10:45,Croatia Prva HNL,Dinamo Zagreb,Lokomotiva Zagreb,1.2,OVER 1.5,1-0,2-0,1,VERDE,100.0,87.0
+2025-12-20 12:30,Italy Serie B,Pescara,Reggiana,1.36,OVER 1.5,1-1,2-1,13,VERDE,76.0,75.0
+2025-12-20 14:00,Spain La Liga,Real Madrid,Sevilla FC,,Team Over 1.5,1-0,2-0,11,VERDE,,
+2025-12-20 13:45,Italy Serie A,Juventus,Roma,,Team Over 1.5,1-0,2-1,6,VERDE,,
+2025-12-20 13:45,Belgium Pro League,Union Saint-Gilloise,Zulte-Waregem,,Team Over 1.5,1-0,2-0,8,VERDE,,
+2025-12-20 13:00,Netherlands Eerste Divisie,Almere City,Emmen,,Team Over 1.5,2-0,4-2,6,VERDE,,
+2025-12-21 07:00,Spain Segunda División,Málaga CF,Almería,1.75,BTTS YES,1-0,2-1,3,VERDE,62.0,62.0
+2025-12-21 07:30,Netherlands Eredivisie,Feyenoord,Twente,1.57,BTTS YES,0-1,1-1,19,VERDE,74.0,74.0
+2025-12-21 08:00,Italy Serie B,Virtus Entella,Südtirol,1.95,BTTS YES,1-0,1-1,5,VERDE,58.0,58.0
+2025-12-21 10:45,Croatia Prva HNL,Rijeka,Gorica,1.97,BTTS YES,0-0,1-0,14,ROJO,65.0,65.0
+2025-12-21 07:00,Spain Segunda División,Málaga CF,Almería,1.42,GOL HT,1-0,2-1,3,VERDE,73.0,75.0
+2025-12-21 07:30,Netherlands Eredivisie,Feyenoord,Twente,1.25,GOL HT,0-1,1-1,19,VERDE,75.0,84.0
+2025-12-21 07:30,Netherlands Eredivisie,Go Ahead Eagles,Groningen,1.33,GOL HT,1-0,1-1,9,VERDE,75.0,77.0
+2025-12-21 08:00,Portugal LigaPro,Leixões,CS Marítimo,1.4,GOL HT,1-3,1-4,7,VERDE,71.0,76.0
+2025-12-21 08:30,Romania Liga I,Universitatea Cluj,SSC Farul,1.42,GOL HT,1-0,1-0,12,VERDE,75.0,73.0
+2025-12-21 10:15,Italy Serie B,Mantova,Empoli,1.41,GOL HT,0-0,0-1,9,ROJO,73.0,75.0
+2025-12-21 10:45,Croatia Prva HNL,Rijeka,Gorica,1.36,GOL HT,0-0,1-0,14,ROJO,75.0,78.0
+2025-12-21 11:00,Italy Serie A,Fiorentina,Udinese,1.48,GOL HT,3-0,5-1,5,VERDE,100.0,70.0
+2025-12-21 07:00,Spain Segunda División,Málaga CF,Almería,1.3,OVER 1.5,1-0,2-1,3,VERDE,78.0,82.0
+2025-12-21 08:00,Italy Serie B,Virtus Entella,Südtirol,1.38,OVER 1.5,1-0,1-1,5,VERDE,76.0,79.0
+2025-12-21 11:30,Belgium Pro League,Royal Antwerp FC,RSC Anderlecht,1.38,OVER 1.5,2-0,2-2,11,VERDE,82.0,80.0
+2025-12-21 14:00,Spain La Liga,Real Betis,Getafe CF,1.48,OVER 1.5,1-0,4-0,12,VERDE,82.0,77.0
+2025-12-21 10:30,Germany Bundesliga,Heidenheim,Bayern München,,Team Over 1.5,0-2,0-4,6,VERDE,,
+2025-12-21 09:15,Spain La Liga,Villarreal,FC Barcelona,,Team Over 1.5,0-1,0-2,15,VERDE,,
+2025-12-21 11:00,Turkey Süper Lig,Galatasaray,Kasımpaşa,,Team Over 1.5,1-0,3-0,11,VERDE,,
+2025-12-22 12:00,Portugal LigaPro,Benfica II,Sporting CP II,1.37,GOL HT,1-0,1-0,10,VERDE,72,80
+2025-12-26 06:30,Belgium Pro League,KRC Genk,Club Brugge,1.51,BTTS YES,1-3,3-5,11,VERDE,73.0,73.0
+2025-12-26 09:00,Belgium Pro League,Cercle Brugge,Union Saint-Gilloise,1.77,BTTS YES,1-1,1-1,8,VERDE,65.0,65.0
+2025-12-26 06:30,Belgium Pro League,KRC Genk,Club Brugge,1.29,GOL HT,1-3,3-5,11,VERDE,80.0,82.0
+2025-12-26 06:30,England Championship,Birmingham City,Derby County,1.46,GOL HT,0-1,1-1,13,VERDE,75.0,73.0
+2025-12-26 09:00,Belgium Pro League,Cercle Brugge,Union Saint-Gilloise,1.39,GOL HT,1-1,1-1,8,VERDE,80.0,77.0
+2025-12-26 09:00,England EFL League Two,Grimsby Town,Oldham Athletic,1.34,GOL HT,0-0,0-0,13,ROJO,75.0,78.0
+2025-12-26 09:00,England EFL League Two,Walsall,Crewe Alexandra,1.45,GOL HT,1-0,1-0,12,VERDE,75.0,72.0
+2025-12-26 09:00,England Championship,Portsmouth,Queens Park Rangers,1.4,GOL HT,1-0,1-1,12,VERDE,82.0,73.0
+2025-12-26 09:00,England Championship,Stoke City,Preston North End,1.45,GOL HT,0-0,0-0,12,ROJO,90.0,71.0
+2025-12-26 10:15,Italy Serie B,Modena,Monza,1.44,GOL HT,1-0,1-2,9,VERDE,71.0,76.0
+2025-12-26 13:45,Belgium Pro League,RSC Anderlecht,Sporting Charleroi,1.36,GOL HT,1-2,1-2,11,VERDE,70.0,76.0
+2025-12-26 06:30,England Championship,Birmingham City,Derby County,1.32,OVER 1.5,0-1,1-1,13,VERDE,80.0,78.0
+2025-12-26 07:00,England Championship,Millwall,Ipswich Town,1.39,OVER 1.5,0-0,0-0,6,ROJO,82.0,81.0
+2025-12-26 09:00,Belgium Pro League,Cercle Brugge,Union Saint-Gilloise,1.32,OVER 1.5,1-1,1-1,8,VERDE,80.0,84.0
+2025-12-26 09:00,England Championship,Oxford United,Southampton,1.24,OVER 1.5,1-1,2-1,12,VERDE,85.0,82.0
+2025-12-26 10:15,Italy Serie B,Modena,Monza,1.41,OVER 1.5,1-0,1-2,9,VERDE,89.0,83.0
+2025-12-26 11:30,Belgium Pro League,Standard Liège,Sint-Truiden,1.34,OVER 1.5,1-1,1-2,6,VERDE,84.0,80.0
+2025-12-26 11:30,Saudi Arabia Professional League,Al Hilal,Al Khaleej,,Team Over 1.5,2-0,3-2,10,VERDE,,
+2025-12-26 09:00,England Championship,Coventry City,Swansea City,,Team Over 1.5,1-0,1-0,11,ROJO,,
+2025-12-26 06:30,Belgium Pro League,KRC Genk,Club Brugge,,Team Over 1.5,1-3,3-5,11,VERDE,,
+2025-12-27 08:00,Italy Serie B,Empoli,Frosinone,1.78,BTTS YES,1-1,1-1,4,VERDE,62.0,62.0
+2025-12-27 08:00,Italy Serie B,Empoli,Frosinone,1.45,GOL HT,1-1,1-1,4,VERDE,73.0,75.0
+2025-12-27 09:00,England Premier League,Arsenal,Brighton & Hove Albion,1.33,GOL HT,1-0,2-1,9,VERDE,88.0,77.0
+2025-12-27 08:00,Italy Serie B,Empoli,Frosinone,1.28,OVER 1.5,1-1,1-1,4,VERDE,78.0,82.0
+2025-12-27 08:50,Saudi Arabia Professional League,Al Nassr,Al Akhdoud,,Team Over 1.5,2-0,3-0,13,VERDE,,
+2025-12-28 05:00,Portugal LigaPro,Academico Viseu,Benfica II,1.78,BTTS YES,0-1,1-2,12,VERDE,60,60
+2025-12-28 13:45,Italy Serie A,Atalanta,Inter Milan,1.6,BTTS YES,0-0,0-1,11,ROJO,71,71
+2025-12-28 05:00,Portugal LigaPro,Academico Viseu,Benfica II,1.38,GOL HT,0-1,1-2,12,VERDE,72,75
+2025-12-28 08:00,Portugal LigaPro,Paços de Ferreira,Farense,1.4,GOL HT,0-0,0-0,14,ROJO,75,74
+2025-12-28 13:45,Italy Serie A,Atalanta,Inter Milan,1.27,GOL HT,0-0,0-1,11,ROJO,87,81
+2025-12-28 05:00,Portugal LigaPro,Academico Viseu,Benfica II,1.3,OVER 1.5,0-1,1-2,12,VERDE,86,81
+2025-12-28 08:00,Portugal LigaPro,Paços de Ferreira,Farense,1.36,OVER 1.5,0-0,0-0,14,ROJO,87,80
+2025-12-29 12:00,England Championship,Coventry City,Ipswich Town,1.65,BTTS YES,0-0,0-2,9,ROJO,68,68
+2025-12-29 13:45,England Championship,West Bromwich Albion,Queens Park Rangers,1.89,BTTS YES,1-1,2-1,13,VERDE,59,59
+2025-12-29 14:15,England Championship,Birmingham City,Southampton,1.64,BTTS YES,0-0,1-1,7,VERDE,68,68
+2025-12-29 13:45,England EFL League Two,Walsall,Oldham Athletic,1.47,GOL HT,0-1,1-2,11,VERDE,82,74
+2025-12-29 13:45,England Championship,West Bromwich Albion,Queens Park Rangers,1.44,GOL HT,1-1,2-1,13,VERDE,74,74
+2025-12-29 13:45,England Championship,Oxford United,Swansea City,1.46,GOL HT,0-1,0-1,6,VERDE,73,72
+2025-12-29 13:45,England Championship,Wrexham,Preston North End,1.41,GOL HT,1-0,2-1,6,VERDE,87,72
+2025-12-29 14:15,England Championship,Birmingham City,Southampton,1.35,GOL HT,0-0,1-1,7,ROJO,79,80
+2025-12-29 12:00,England Championship,Coventry City,Ipswich Town,1.24,OVER 1.5,0-0,0-2,9,VERDE,78,87
+2025-12-29 13:45,England EFL League Two,Gillingham,Colchester United,1.38,OVER 1.5,0-0,1-1,11,VERDE,73,78
+2025-12-29 13:45,England Championship,West Bromwich Albion,Queens Park Rangers,1.32,OVER 1.5,1-1,2-1,13,VERDE,70,80
+2025-12-29 13:45,England EFL League Two,Salford City,Fleetwood Town,1.2,OVER 1.5,0-0,0-0,10,ROJO,73,86
+2025-12-29 13:45,England EFL League Two,Crawley Town,Bromley,1.23,OVER 1.5,1-1,1-3,9,VERDE,82,84
+2025-12-29 13:45,England Championship,Wrexham,Preston North End,1.31,OVER 1.5,1-0,2-1,6,VERDE,78,78
+2025-12-29 14:15,England Championship,Birmingham City,Southampton,1.22,OVER 1.5,0-0,1-1,7,VERDE,91,87
+2025-12-30 09:30,Saudi Arabia Professional League,Al Ahli,Al Feiha,1.9,BTTS YES,1-0,2-0,7,ROJO,58.0,58.0
+2025-12-30 13:30,England Premier League,Chelsea,AFC Bournemouth,1.61,BTTS YES,2-2,2-2,15,VERDE,66.0,66.0
+2025-12-30 14:15,England Premier League,Arsenal,Aston Villa,2.04,BTTS YES,0-0,4-1,6,VERDE,61.0,61.0
+2025-12-30 14:15,Portugal LigaPro,Torreense,Lusitania Lourosa,1.83,BTTS YES,0-1,0-1,9,ROJO,57.0,57.0
+2025-12-30 14:15,England Premier League,Arsenal,Aston Villa,1.37,GOL HT,0-0,4-1,6,ROJO,84.0,76.0
+2025-12-30 14:15,England Premier League,Arsenal,Aston Villa,1.28,OVER 1.5,0-0,4-1,6,VERDE,84.0,82.0
+2025-12-30 14:15,Portugal LigaPro,Torreense,Lusitania Lourosa,1.36,OVER 1.5,0-1,0-1,9,ROJO,79.0,78.0
+2025-12-30 11:30,Saudi Arabia Professional League,Al Ittifaq,Al Nassr,,Team Over 1.5,1-0,2-2,17,VERDE,,
+2025-12-31 11:30,Saudi Arabia Professional League,Al Shabab,Al Quadisiya,1.83,BTTS YES,0-3,2-3,12,VERDE,61,61
+2025-12-31 11:30,Saudi Arabia Professional League,Al Kholood,Al Hilal,1.7,BTTS YES,1-1,1-3,12,VERDE,63,63

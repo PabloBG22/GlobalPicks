@@ -1,0 +1,39 @@
+Objetivo: validar "Over 1.5 goles" (>= 2 goles totales).
+
+Usa solo el Resumen historico y las Tendencias (Trends). No uses modelo ni datos externos.
+
+Metodologia
+1) Validar muestra
+- Usa local/visitante.samples.goals (o matches si no existe).
+- Si ambos < min_sample y no hay h2h con muestra suficiente, responde False.
+
+2) Señales base (por equipo)
+- rates.over15 (frecuencia de 2+ goles).
+- averages.total_goals (ritmo de goles).
+
+3) Contexto local/visita
+- Si existen local_home y visitante_away, revisa que no sean claramente inferiores.
+- Si ambos contextos tienen rates.over15 < 0.50, penaliza fuerte.
+
+4) Rachas
+- Revisa streaks.over15.zero_streak.
+- Si zero_streak >= 3 en ambos, es señal roja.
+
+5) H2H (si existe)
+- Si h2h.rates.over15 >= 0.60 con muestra suficiente, puede compensar un equipo borderline.
+
+Reglas de decision
+Devuelve True si se cumplen TODAS:
+- (local.rates.over15 >= 0.70 y visitante.rates.over15 >= 0.60) o h2h.rates.over15 >= 0.60
+- averages.total_goals >= 2.2 en al menos uno
+- streaks.over15.zero_streak <= 2 en ambos
+- y el contexto local_home/visitante_away no contradice
+
+Devuelve False si se cumple ALGUNA:
+- rates.over15 <= 0.50 en ambos
+- zero_streak >= 3 en ambos
+- averages.total_goals < 1.9 en ambos
+
+Si hay datos insuficientes o señales contradictorias, responde False.
+
+Responde solo True o False.

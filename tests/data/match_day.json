@@ -1,0 +1,1112 @@
+{
+  "success": true,
+  "pager": {
+      "current_page": 1,
+      "max_page": 1,
+      "results_per_page": 1,
+      "total_results": 1
+  },
+  "metadata": {
+      "request_limit": "1800",
+      "request_remaining": "1783",
+      "request_reset_message": "Request limit is refreshed every hour."
+  },
+  "data": {
+      "id": 8232041,
+      "homeID": 1431,
+      "awayID": 1423,
+      "season": "2025/2026",
+      "status": "incomplete",
+      "roundID": 120262,
+      "game_week": 1,
+      "revised_game_week": -1,
+      "homeGoals": [],
+      "awayGoals": [],
+      "homeGoalCount": 0,
+      "awayGoalCount": 0,
+      "totalGoalCount": 0,
+      "team_a_corners": -1,
+      "team_b_corners": -1,
+      "totalCornerCount": -1,
+      "team_a_offsides": -1,
+      "team_b_offsides": -1,
+      "team_a_yellow_cards": -1,
+      "team_b_yellow_cards": -1,
+      "team_a_red_cards": -1,
+      "team_b_red_cards": -1,
+      "team_a_shotsOnTarget": -1,
+      "team_b_shotsOnTarget": -1,
+      "team_a_shotsOffTarget": -1,
+      "team_b_shotsOffTarget": -1,
+      "team_a_shots": -1,
+      "team_b_shots": -1,
+      "team_a_fouls": -1,
+      "team_b_fouls": -1,
+      "team_a_possession": -1,
+      "team_b_possession": -1,
+      "refereeID": null,
+      "coach_a_ID": -1,
+      "coach_b_ID": -1,
+      "stadium_name": "Estadio AKRON",
+      "stadium_location": "Avenida Circuito JVC Número 2800, Centro JVC, Zapopan",
+      "team_a_cards_num": -1,
+      "team_b_cards_num": -1,
+      "odds_ft_1": 2.28,
+      "odds_ft_x": 3.25,
+      "odds_ft_2": 2.62,
+      "odds_ft_over05": 1,
+      "odds_ft_over15": 1.3,
+      "odds_ft_over25": 1.85,
+      "odds_ft_over35": 3.11,
+      "odds_ft_over45": 6.5,
+      "odds_ft_under05": 8.5,
+      "odds_ft_under15": 3.6,
+      "odds_ft_under25": 1.84,
+      "odds_ft_under35": 1.33,
+      "odds_ft_under45": 1.13,
+      "odds_btts_yes": 1.65,
+      "odds_btts_no": 2.1,
+      "odds_team_a_cs_yes": 3.2,
+      "odds_team_a_cs_no": 1.3,
+      "odds_team_b_cs_yes": 3.3,
+      "odds_team_b_cs_no": 1.28,
+      "odds_doublechance_1x": 1.32,
+      "odds_doublechance_12": 1.26,
+      "odds_doublechance_x2": 1.45,
+      "odds_1st_half_result_1": 2.65,
+      "odds_1st_half_result_x": 2.3,
+      "odds_1st_half_result_2": 3.1,
+      "odds_2nd_half_result_1": 2.85,
+      "odds_2nd_half_result_x": 2.47,
+      "odds_2nd_half_result_2": 3.15,
+      "odds_dnb_1": 1.83,
+      "odds_dnb_2": 1.83,
+      "odds_corners_over_75": 1.2,
+      "odds_corners_over_85": 1.47,
+      "odds_corners_over_95": 1.6,
+      "odds_corners_over_105": 2.25,
+      "odds_corners_over_115": 2.91,
+      "odds_corners_under_75": 3.35,
+      "odds_corners_under_85": 2.54,
+      "odds_corners_under_95": 1.95,
+      "odds_corners_under_105": 1.6,
+      "odds_corners_under_115": 1.37,
+      "odds_corners_1": 1.97,
+      "odds_corners_x": 6.7,
+      "odds_corners_2": 2.26,
+      "odds_team_to_score_first_1": 1.95,
+      "odds_team_to_score_first_x": 8.9,
+      "odds_team_to_score_first_2": 1.95,
+      "odds_win_to_nil_1": 4.5,
+      "odds_win_to_nil_2": 5,
+      "odds_1st_half_over05": 1.35,
+      "odds_1st_half_over15": 2.74,
+      "odds_1st_half_over25": 6,
+      "odds_1st_half_over35": 17,
+      "odds_1st_half_under05": 2.75,
+      "odds_1st_half_under15": 1.4,
+      "odds_1st_half_under25": 1.11,
+      "odds_1st_half_under35": 1.02,
+      "odds_2nd_half_over05": 1.22,
+      "odds_2nd_half_over15": 2.04,
+      "odds_2nd_half_over25": 4.2,
+      "odds_2nd_half_over35": 10,
+      "odds_2nd_half_under05": 3.8,
+      "odds_2nd_half_under15": 1.7,
+      "odds_2nd_half_under25": 1.18,
+      "odds_2nd_half_under35": 1.05,
+      "odds_btts_1st_half_yes": 0,
+      "odds_btts_1st_half_no": 0,
+      "odds_btts_2nd_half_yes": 0,
+      "odds_btts_2nd_half_no": 0,
+      "overallGoalCount": 0,
+      "ht_goals_team_a": 0,
+      "ht_goals_team_b": 0,
+      "goals_2hg_team_a": 0,
+      "goals_2hg_team_b": 0,
+      "GoalCount_2hg": 0,
+      "HTGoalCount": 0,
+      "date_unix": 1758157500,
+      "winningTeam": -1,
+      "no_home_away": 1,
+      "btts_potential": 57,
+      "btts_fhg_potential": 50,
+      "btts_2hg_potential": 67,
+      "goalTimingDisabled": 0,
+      "attendance": -1,
+      "corner_timings_recorded": -1,
+      "card_timings_recorded": -1,
+      "team_a_fh_corners": -1,
+      "team_b_fh_corners": -1,
+      "team_a_2h_corners": -1,
+      "team_b_2h_corners": -1,
+      "corner_fh_count": -1,
+      "corner_2h_count": -1,
+      "team_a_fh_cards": -1,
+      "team_b_fh_cards": -1,
+      "team_a_2h_cards": -1,
+      "team_b_2h_cards": -1,
+      "total_fh_cards": -1,
+      "total_2h_cards": -1,
+      "attacks_recorded": -1,
+      "team_a_dangerous_attacks": 0,
+      "team_b_dangerous_attacks": 0,
+      "team_a_attacks": 0,
+      "team_b_attacks": 0,
+      "team_a_xg": 0,
+      "team_b_xg": 0,
+      "total_xg": 0,
+      "team_a_penalties_won": 0,
+      "team_b_penalties_won": 0,
+      "team_a_penalty_goals": 0,
+      "team_b_penalty_goals": 0,
+      "team_a_penalty_missed": 0,
+      "team_b_penalty_missed": 0,
+      "pens_recorded": 1,
+      "goal_timings_recorded": 1,
+      "team_a_0_10_min_goals": 0,
+      "team_b_0_10_min_goals": 0,
+      "team_a_corners_0_10_min": -1,
+      "team_b_corners_0_10_min": -1,
+      "team_a_cards_0_10_min": -1,
+      "team_b_cards_0_10_min": -1,
+      "throwins_recorded": -1,
+      "team_a_throwins": -1,
+      "team_b_throwins": -1,
+      "freekicks_recorded": -1,
+      "team_a_freekicks": -1,
+      "team_b_freekicks": -1,
+      "goalkicks_recorded": -1,
+      "team_a_goalkicks": -1,
+      "team_b_goalkicks": -1,
+      "o45_potential": 29,
+      "o35_potential": 43,
+      "o25_potential": 64,
+      "o15_potential": 64,
+      "o05_potential": 93,
+      "o15HT_potential": 43,
+      "o05HT_potential": 64,
+      "o05_2H_potential": 79,
+      "o15_2H_potential": 57,
+      "corners_potential": 13.15,
+      "offsides_potential": 4.28,
+      "cards_potential": 4.86,
+      "avg_potential": 3.43,
+      "home_url": "/clubs/cd-guadalajara-1431",
+      "home_image": "teams/mexico-cd-guadalajara.png",
+      "home_name": "Guadalajara",
+      "away_url": "/clubs/tigres-uanl-1423",
+      "away_image": "teams/mexico-tigres-uanl.png",
+      "away_name": "Tigres UANL",
+      "home_ppg": 1,
+      "away_ppg": 2,
+      "pre_match_home_ppg": 1,
+      "pre_match_away_ppg": 2,
+      "pre_match_teamA_overall_ppg": 1,
+      "pre_match_teamB_overall_ppg": 2,
+      "u45_potential": 71,
+      "u35_potential": 57,
+      "u25_potential": 36,
+      "u15_potential": 36,
+      "u05_potential": 7,
+      "corners_o85_potential": 50,
+      "corners_o95_potential": 43,
+      "corners_o105_potential": 43,
+      "team_a_xg_prematch": 1.69,
+      "team_b_xg_prematch": 2.13,
+      "total_xg_prematch": 3.82,
+      "match_url": "/mexico/tigres-uanl-vs-cd-guadalajara-h2h-stats",
+      "competition_id": 15234,
+      "matches_completed_minimum": 7,
+      "lineups": {
+          "team_a": [],
+          "team_b": []
+      },
+      "bench": {
+          "team_a": [],
+          "team_b": []
+      },
+      "team_a_goal_details": [],
+      "team_b_goal_details": [],
+      "trends": {
+          "home": [
+              [
+                  "chart",
+                  "Coming into this game, Guadalajara has picked up 4 points from the last 5 games, both home and away. That's 0.8 points per game on average. BTTS has landed in an intriguing 4 of those games. Guadalajara has scored 7 times in the last 5 fixtures."
+              ],
+              [
+                  "great",
+                  "Guadalajara will be confident of scoring today and will look to keep up their record of scoring in every single home game this season."
+              ],
+              [
+                  "great",
+                  "We might see some goals in this one, with the last 4 games involving Guadalajara has ended with 3 or more goals being scored. Will Tigres UANL get in on the action today? There has been a total of 16 goals in the last 5 games for Guadalajara, both home and away."
+              ],
+              [
+                  "great",
+                  "In the last 5 matches for Guadalajara, 4 of those games has ended with both teams scoring. This season 5 matches (71% of all matches) involving Guadalajara has seen BTTS landing."
+              ],
+              [
+                  "great",
+                  "It's likely that Guadalajara will score today, as they have netted in the last 4 games coming into this one and have scored 7 goals in the last five games."
+              ]
+          ],
+          "away": [
+              [
+                  "chart",
+                  "Coming into this game, Tigres UANL has picked up 8 points from the last 5 games, both home and away. That's 1.6 points per game on average. BTTS has landed in just 2 of those games. Tigres UANL has scored 11 times in the last 5 fixtures."
+              ],
+              [
+                  "great",
+                  "Tigres UANL has enjoyed playing away from home recently, with the side currently unbeaten in 3 games."
+              ],
+              [
+                  "great",
+                  "Tigres UANL has put together a good run of form and has now gone 3 games without defeat."
+              ],
+              [
+                  "great",
+                  "Tigres UANL has kept 3 clean sheets in the last 5 games, conceding 5 goals during this period. Overall this season, their defence has kept a clean sheet on 4 occasions."
+              ],
+              [
+                  "great",
+                  "Tigres UANL will be looking to keep up the momentum today against Guadalajara, having lost just 1 game from the last 5. They have won 2 and drawn 2"
+              ],
+              [
+                  "bad",
+                  "Just 2 of the last 5 games for Tigres UANL has ended with both teams scoring. They have won 2 of those 5 games. Overall, BTTS has landed in 3/7 games for Tigres UANL this season."
+              ]
+          ]
+      },
+      "homeGoals_timings": [],
+      "awayGoals_timings": [],
+      "team_a_card_details": [],
+      "team_b_card_details": [],
+      "h2h": {
+          "team_a_id": 1431,
+          "team_b_id": 1423,
+          "previous_matches_results": {
+              "team_a_win_home": 4,
+              "team_a_win_away": 2,
+              "team_b_win_home": 7,
+              "team_b_win_away": 6,
+              "draw": 12,
+              "team_a_wins": 6,
+              "team_b_wins": 13,
+              "totalMatches": 31,
+              "team_a_win_percent": 19,
+              "team_b_win_percent": 42
+          },
+          "betting_stats": {
+              "over05": 26,
+              "over15": 22,
+              "over25": 18,
+              "over35": 9,
+              "over45": 3,
+              "over55": 1,
+              "btts": 18,
+              "clubACS": 6,
+              "clubBCS": 12,
+              "over05Percentage": 84,
+              "over15Percentage": 71,
+              "over25Percentage": 58,
+              "over35Percentage": 29,
+              "over45Percentage": 10,
+              "over55Percentage": 3,
+              "bttsPercentage": 58,
+              "clubACSPercentage": 19,
+              "clubBCSPercentage": 39,
+              "avg_goals": 2.55,
+              "total_goals": 79
+          },
+          "previous_matches_ids": [
+              {
+                  "id": 7806332,
+                  "date_unix": 1737853500,
+                  "team_a_id": 1431,
+                  "team_b_id": 1423,
+                  "team_a_goals": 1,
+                  "team_b_goals": 1
+              },
+              {
+                  "id": 7453296,
+                  "date_unix": 1724547600,
+                  "team_a_id": 1423,
+                  "team_b_id": 1431,
+                  "team_a_goals": 1,
+                  "team_b_goals": 1
+              },
+              {
+                  "id": 7294038,
+                  "date_unix": 1705881600,
+                  "team_a_id": 1423,
+                  "team_b_id": 1431,
+                  "team_a_goals": 1,
+                  "team_b_goals": 0
+              },
+              {
+                  "id": 6413521,
+                  "date_unix": 1698541500,
+                  "team_a_id": 1431,
+                  "team_b_id": 1423,
+                  "team_a_goals": 0,
+                  "team_b_goals": 4
+              },
+              {
+                  "id": 6203711,
+                  "date_unix": 1685324100,
+                  "team_a_id": 1431,
+                  "team_b_id": 1423,
+                  "team_a_goals": 2,
+                  "team_b_goals": 3
+              },
+              {
+                  "id": 6203710,
+                  "date_unix": 1685066400,
+                  "team_a_id": 1423,
+                  "team_b_id": 1431,
+                  "team_a_goals": 0,
+                  "team_b_goals": 0
+              },
+              {
+                  "id": 4661665,
+                  "date_unix": 1677373500,
+                  "team_a_id": 1423,
+                  "team_b_id": 1431,
+                  "team_a_goals": 1,
+                  "team_b_goals": 2
+              },
+              {
+                  "id": 4944644,
+                  "date_unix": 1671764400,
+                  "team_a_id": 1431,
+                  "team_b_id": 1423,
+                  "team_a_goals": 2,
+                  "team_b_goals": 1
+              },
+              {
+                  "id": 2280824,
+                  "date_unix": 1663121100,
+                  "team_a_id": 1431,
+                  "team_b_id": 1423,
+                  "team_a_goals": 1,
+                  "team_b_goals": 4
+              },
+              {
+                  "id": 1511987,
+                  "date_unix": 1644706800,
+                  "team_a_id": 1431,
+                  "team_b_id": 1423,
+                  "team_a_goals": 1,
+                  "team_b_goals": 3
+              },
+              {
+                  "id": 1282352,
+                  "date_unix": 1635646200,
+                  "team_a_id": 1423,
+                  "team_b_id": 1431,
+                  "team_a_goals": 2,
+                  "team_b_goals": 1
+              },
+              {
+                  "id": 1159120,
+                  "date_unix": 1619906400,
+                  "team_a_id": 1431,
+                  "team_b_id": 1423,
+                  "team_a_goals": 0,
+                  "team_b_goals": 0
+              },
+              {
+                  "id": 1016707,
+                  "date_unix": 1599357600,
+                  "team_a_id": 1423,
+                  "team_b_id": 1431,
+                  "team_a_goals": 1,
+                  "team_b_goals": 3
+              },
+              {
+                  "id": 812920,
+                  "date_unix": 1581210000,
+                  "team_a_id": 1423,
+                  "team_b_id": 1431,
+                  "team_a_goals": 3,
+                  "team_b_goals": 0
+              },
+              {
+                  "id": 617897,
+                  "date_unix": 1564358400,
+                  "team_a_id": 1431,
+                  "team_b_id": 1423,
+                  "team_a_goals": 2,
+                  "team_b_goals": 0
+              },
+              {
+                  "id": 523507,
+                  "date_unix": 1557014400,
+                  "team_a_id": 1423,
+                  "team_b_id": 1431,
+                  "team_a_goals": 2,
+                  "team_b_goals": 1
+              },
+              {
+                  "id": 440175,
+                  "date_unix": 1543114800,
+                  "team_a_id": 1431,
+                  "team_b_id": 1423,
+                  "team_a_goals": 0,
+                  "team_b_goals": 1
+              },
+              {
+                  "id": 291075,
+                  "date_unix": 1521342360,
+                  "team_a_id": 1431,
+                  "team_b_id": 1423,
+                  "team_a_goals": 0,
+                  "team_b_goals": 0
+              },
+              {
+                  "id": 84576,
+                  "date_unix": 1506816000,
+                  "team_a_id": 1423,
+                  "team_b_id": 1431,
+                  "team_a_goals": 1,
+                  "team_b_goals": 0
+              },
+              {
+                  "id": 84959,
+                  "date_unix": 1496012760,
+                  "team_a_id": 1431,
+                  "team_b_id": 1423,
+                  "team_a_goals": 2,
+                  "team_b_goals": 1
+              },
+              {
+                  "id": 84958,
+                  "date_unix": 1495764000,
+                  "team_a_id": 1423,
+                  "team_b_id": 1431,
+                  "team_a_goals": 2,
+                  "team_b_goals": 2
+              },
+              {
+                  "id": 84903,
+                  "date_unix": 1491962400,
+                  "team_a_id": 1423,
+                  "team_b_id": 1431,
+                  "team_a_goals": 3,
+                  "team_b_goals": 0
+              },
+              {
+                  "id": 84709,
+                  "date_unix": 1474416000,
+                  "team_a_id": 1431,
+                  "team_b_id": 1423,
+                  "team_a_goals": 0,
+                  "team_b_goals": 1
+              },
+              {
+                  "id": 85153,
+                  "date_unix": 1453676400,
+                  "team_a_id": 1431,
+                  "team_b_id": 1423,
+                  "team_a_goals": 2,
+                  "team_b_goals": 2
+              },
+              {
+                  "id": 84985,
+                  "date_unix": 1439164800,
+                  "team_a_id": 1423,
+                  "team_b_id": 1431,
+                  "team_a_goals": 2,
+                  "team_b_goals": 2
+              },
+              {
+                  "id": 85600,
+                  "date_unix": 1430611200,
+                  "team_a_id": 1423,
+                  "team_b_id": 1431,
+                  "team_a_goals": 2,
+                  "team_b_goals": 1
+              },
+              {
+                  "id": 85436,
+                  "date_unix": 1415574000,
+                  "team_a_id": 1431,
+                  "team_b_id": 1423,
+                  "team_a_goals": 0,
+                  "team_b_goals": 0
+              },
+              {
+                  "id": 85875,
+                  "date_unix": 1393801200,
+                  "team_a_id": 1431,
+                  "team_b_id": 1423,
+                  "team_a_goals": 0,
+                  "team_b_goals": 0
+              },
+              {
+                  "id": 85699,
+                  "date_unix": 1378598400,
+                  "team_a_id": 1423,
+                  "team_b_id": 1431,
+                  "team_a_goals": 3,
+                  "team_b_goals": 3
+              },
+              {
+                  "id": 86223,
+                  "date_unix": 1363482000,
+                  "team_a_id": 1423,
+                  "team_b_id": 1431,
+                  "team_a_goals": 1,
+                  "team_b_goals": 1
+              },
+              {
+                  "id": 86052,
+                  "date_unix": 1349222400,
+                  "team_a_id": 1431,
+                  "team_b_id": 1423,
+                  "team_a_goals": 2,
+                  "team_b_goals": 1
+              }
+          ]
+      },
+      "tv_stations": null,
+      "weather": {
+          "id": 644519,
+          "fixture_id": 19425878,
+          "venue_id": 181421,
+          "temperature": {
+              "day": 24.16,
+              "morning": 15.23,
+              "evening": 20.44,
+              "night": 17
+          },
+          "feels_like": {
+              "day": 24.3,
+              "morning": 15.34,
+              "evening": 20.68,
+              "night": 17.18
+          },
+          "wind": {
+              "speed": 2,
+              "direction": 230
+          },
+          "humidity": "64%",
+          "pressure": 1013,
+          "clouds": "47%",
+          "description": "moderate rain",
+          "icon": "https://cdn.sportmonks.com/images/weather/10d.png",
+          "type": "forecast",
+          "metric": "celcius",
+          "current": null
+      },
+      "gpt_en": "<div>\n  <p>Season 2025/2026 kicks off at Estadio Akron with Guadalajara hosting Tigres UANL. It’s a high‑octane opener on paper, a fixture that has historically leaned toward goals.</p>\n\n  <ul>\n    <li>BTTS Yes: 57% historical; odds to back it at 1.72. A clear angle given both sides’ attacking profiles.</li>\n    <li>Over 2.5 Goals: 64% historical likelihood; price 1.91 makes it a solid value play in a head‑to‑head with 3.82 total xG between them historically.</li>\n    <li>Second half BTTS: 67% historical — expect drama after the break.</li>\n    <li>Clean sheets: Guadalajara Yes 3.25 / No 1.30; Tigres Yes 3.25 / No 1.30. Probable that both sides contribute at least a goal.</li>\n    <li>Team form: Guadalajara 1.00 PPG; Tigres 2.00 PPG entering the game. The away xG for Tigres is 2.36 with a 67% away win rate, suggesting danger on the road.</li>\n    <li>Home vs away dynamics: Guadalajara’s home attack has a +27 edge, but defensive liability shows as a negative in home contexts. Tigres’ away threat pairs with Guadalajara’s vulnerability at the back.</li>\n    <li>Market note: Double Chance Guadalajara Win or Draw 1.25; Double Chance Tigres Win or Draw 1.48. Safer cover leans toward Guadalajara W/D, but Tigres carry away steadiness.</li>\n  </ul>\n\n  <p>Prediction: an open, goal‑dense affair. Likeliest outcomes point to goals on both sides with a leaning toward a Tigres result or a high‑scoring draw. Suggested bets: BTTS Yes and Over 2.5 Goals as a combined angle; consider First‑Half Over 0.5 Goals as a supplementary play given the 64% historical first‑half over 0.5.</p>\n</div>",
+      "gpt_int": {
+          "es": "Análisis rápido de apuestas: Guadalajara vs Tigres UANL (Jornada 1, temporada 2025/2026, Estadio Akron)\n\nLecturas clave\n- Proyección de goles: el mercado sugiere un partido con goles seguros (Over 0.5 a 1.00). La tendencia general apunta a un juego abierto; Over 1.5 está muy favorecido (1.25) y Over 2.5 (1.91) es una línea razonable para buscar un duelo con varios tantos.\n- Ambos equipos buscan marcar: BTTS Yes se sitúa en 1.72, BTTS No en 2.05. Con el promedio previo de BTTS entre ambos equipos en 57%, es razonable esperar que ambos anoten.\n- Nivel de goles esperado (xG): Guadalajara promedia 1.69 xG por partido; Tigres UANL, fuera de casa, 2.36 xG; el historial head-to-head entre ambos tiene un xG medio de 3.82 por encuentro, lo que respalda una propuesta de 2–3 goles en este choque.\n- Ventaja local y forma: Guadalajara en casa tiende a mejorar su ataque (+27) aunque su defensa se ve más expuesta (-25). Su rendimiento histórico en casa indica 33% de victorias, frente a un Tigres con 67% de rendimiento como visitante, lo que sugiere que Tigres llega en forma sólida para este duelo fuera de casa.\n- Dinámica de ataques/defensas: ambos suelen permitir y/o generar algo de juego abierto. Las probabilidades de varios córneres y acciones de gol son consistentes con el promedio general (córners alrededor de 13, tarjetas y otros combinen en rangos similares al promedio).\n\nPronóstico y lectura de resultado\n- Pronóstico principal: Tigres UANL gana o empata (doble oportunidad Tigres Win o Draw) es 1.48, con claro sesgo hacia una victoria visitante dada su mayor xG fuera de casa y su alto rendimiento away (67% de victorias como visitante). Posible resultado recomendado: 1–2 o 1–1.\n- Otra lectura plausible: empate 1–1 o 2–2, dadas las tendencias de ambos para marcar y el potencial de un choque abierto en Akron.\n\nRecomendaciones de apuestas (enfoque práctico)\n- Apuesta principal (si buscas valor): Over 2.5 goles (1.91) y BTTS Yes (1.72). Combinan bien para un partido con varias oportunidades y probabilidad de que ambos anoten.\n- Apuesta de seguridad: Double Chance Guadalajara Win o Draw (1.25) si priorizas no perder ante un equipo visitante con buen rendimiento fuera de casa.\n- Alternativas razonables: Tigres UANL Win o Draw (1.48) si prefieres cubrir el resultado posible de un triunfo visitante o un empate.  \n- Enfoque de ataque: Considerar cobertura con Over 1.5 (1.25) y Over 0.5 (1.00) para confirmar el objetivo de que habrá al menos un gol y, de forma más probable, varios.\n\nNotas rápidas\n- Las estadísticas de xG apuntan a un duelo con potencial de 3–4 goles entre ambos, más cercano a la línea de Over 2.5.\n- El historial sugiere mayor probabilidad de goles de Tigres cuando actúan como visitante, y Guadalajara querrá aprovechar su casa para generar oportunidades, especialmente en la primera mitad.\n- Evita depender de un marcador limpio: las probabilidades de que alguno de los dos mantenga la puerta invicta son bajas en este contexto (Clean Sheets No alrededor de 1.30 para ambos lados).\n\nResumen corto\n- Likely: Partido con varios goles y ambos equipos marcando.\n- Predicción posible de marcador: 1–2 o 2–2.\n- Apuestas recomendadas: Over 2.5 + BTTS Yes; alternativa segura: Double Chance Tigres Win o Draw.",
+          "pt": "Análise de pré-jogo: Guadalajara vs Tigres UANL (Liga MX, temporada 2025/2026, Rodada 1)\nEstádio: Estadio AKRON (Guadalajara em casa)\n\nContexto rápido\n- Odds: Guadalajara 2.50, Empate 3.35, Tigres UANL 2.50. Empate não é o favorito, mas o equilíbrio é evidente.\n- Tendência ofensiva: Over 0.5 gols 1.00; Over 1.5 gols 1.25; Over 2.5 gols 1.91. Mostra que é comum ver gols neste confronto, sobretudo a partir de 2 gols.\n- BTTS (ambos marcam): Yes 1.72; No 2.05. A tendência histórica aponta para gols de ambas as equipes.\n- Clean sheets: Guadalajara Yes 3.25; Tigres Yes 3.25; No 1.30 para ambos. Probabilidade de goleiro de ambas as equipes ser surpreendido é alta.\n- Duplo chancen: Guadalajara Win ou Draw 1.25; Tigres Win ou Draw 1.48. Valores relativamente conservadores, dada a participação de casa/fora.\n- Desempenho histórico (robusto): \n  - Média BTTS entre as duas equipes antes do jogo: 57%.  \n  - Média BTTS no 2º tempo: 67% (indica maior probabilidade de gols no segundo tempo).\n  - Médio de gols por jogo entre as equipes antes do choque: 3.82 xG combinados (fora da média histórica de 3.43, ou seja, tende a ser um confronto com mais chances de gols).\n  - xG: Guadalajara em casa 1.72 (ofensiva), Tigres UANL fora 2.36 (ofensiva); Tigres costuma ter bom desempenho ofensivo fora e Guadalajara costuma sofrer mais em casa (xG contra em casa próximo de 1.28).\n- Forma recente: Pré-jogo aponta para Tigres com melhor projeção de relâmpago ofensivo fora de casa (pré-match points: Guadalajara 1.00 por jogo vs Tigres 2.00).  \n\nAnálise-chave\n- Este duelo tende a ser aberto: xG combinados previstos acima da média histórica entre as equipes sugere que não esperamos muitos bloqueios defensivos.\n- O dado de home/away aponta para vantagem tática de Tigres em jogos fora, mas Guadalajara joga em casa. A soma disso favorece cenários com gols e BTTS.\n- Probabilidade de gols no 2º tempo é alta (histórico de 67%), o que aumenta o apelo de apostas em segundas metades movidas por nervosismo/cansaço.\n- A probabilidade de ocorrer pelo menos um gol é praticamente certa (Over 0.5 a 1.00), e a chance de sair pelo menos dois gols costuma ficar em patamar aceitável (Over 1.5 a 1.25; Over 2.5 a 1.91).\n\nPalpites, apostas recomendadas\n- Palpite principal (gols): Over 2.5 gols (1.91) + BTTS Yes (1.72). Combinação com alto poder de retorno, alinhada com a projeção de xG e BTTS histórica.\n- Cenário seguro: Double Chance Guadalajara Win or Draw (1.25). Mantém você coberto caso o jogo seja equilibrado.\n- Cenário de valor: Tigres UANL Win or Draw (1.48). Aproveita o favoritismo relativo de Tigres como visitante, mantendo boa margem de segurança.\n- Opção adicional de leitura rápida: Over 1.5 gols (1.25) pode já vir com boa margem, dada a média histórica de gols por jogo entre as equipes.\n\nNotas rápidas de estatística relevante\n- O xG combinado previsto para este duelo é de 3.82, acima da média histórica entre as equipes (3.43). Isso reforça a ideia de um jogo aberto com mais chances de gols.\n- BTTS tem boa probabilidade: média de 57% entre as equipes. No histórico de 2º tempo, 67% (aumenta o apelo de gols tardios).\n- Tigres tem histórico de boa performance fora de casa (xG away 2.36 e win rate away 67%), enquanto Guadalajara tem maior vulnerabilidade defensiva em casa (xG contra em casa ~1.28) e uma taxa de vitória histórica em casa de 33%.\n\nResumo rápido\n- Expectativa: jogo aberto com gols prováveis e BTTS provável.\n- Aposta-chave: Over 2.5 gols e BTTS Yes (padrão provável com retorno sólido).\n- Cobertura sensata: Guadalajara Win or Draw (1.25).\n- Valor moderado: Tigres Win or Draw (1.48).\n\nBoa aposta e boa estratégia para acompanhar as odds durante a rodada 1. Se quiser, posso adaptar para um par de combinações mais curtas ou criar um parlay com máximo de valor conforme as cotações estiverem estáveis até o kickoff.",
+          "tr": "Maç: Guadalajara vs Tigres UANL\nSezon: 2025/2026 | Hafta: 1 | Stadyum: Estadio Akron\nDurum: Oynanışa dair bilgiler şu anda eksik\nKick-off: 18 Eylül\n\nÖne çıkan noktalar\n- Deplasman etkisi güçlü: Tigres UANL’in deplasman galibiyet yüzdesi yaklaşık %67; bu maçta favori görünümü verir.\n- Ev sahibi formu zayıf gösterebilir: Guadalajara’nın evinde kazanma oranı ~%33 düzeyinde; ev sahibi avantajı bu maçta kritik olmayabilir.\n- Goller için güçlü beklenti: Her iki takımın toplam xG’si 3.82 olarak kaydedilmiş; bu maçta 2.5+ gol olasılığı yüksek (yaklaşık %64 geçmiş eğilimiyle).\n- BTTS olasılığı dikkate değer: BTTS Yes için 1.72 oranlar mevcut; iki takımın da gol bulma ihtimali yüksek bir çerçevede görünüyor.\n- Savunma/kaleler: Clean sheet ihtimali düşük görünebilir; Guadalajara için 3.25, Tigres için 3.25 oranlar var; bu da net bir savunma avantajının zor olduğunu işaret eder.\n- Ev sahibi avantajı sınırlı: Guadalajara’nın evdeki gol üretimi ortalamasına karşılık, savunması için de yüksek risk içeriyor.\n\nİstatistiklere dayalı notlar (kısa yorumlar)\n- Toplam gol beklentisi: Önceki karşılaşmalarda toplam hedeflenen gol seviyesi yüksek olduğundan Over 2.5 hedefi mantıklı.\n- Deplasman performansı: Tigres’in deplasman xG’si 2.36; bu maçta gol üretiminde etkili olabilir.\n- Güç dengesi: Tigres deplasmanda kazanma eğilimindeyken, Guadalajara evinde beklenen üretimi zayıf kalabilir; bu maçta Tigres’in galibiyeti olasılığı yüksek görünüyor.\n\nBahis önerileri (risk ve potansiyel getiriler)\n- Öne çıkan tercihler:\n  - Over 2.5 Goller (oran 1.91): Toplam gol beklentisi yüksek olduğundan mantıklı bir seçim.\n  - BTTS (Evet) – Yes (oran 1.72): Her iki takımın da gol bulma ihtimali güçlü.\n  - Tigres UANL Win (oran 2.50) veya Double Chance Tigres UANL Win or Draw (oran 1.48): Deplasman gücü ve genel formu göz önünde bulundurulduğunda güvenli alternatifler.\n- Dengeli tercihler:\n  - Guadalajara Win or Draw (oran 1.25): Ev sahibi için riskli bir güvenlik seçeneği; ancak burada Tigres’in deplasman gücü nedeniyle risk daha yüksek.\n- Düşük ihtimalli, yüksek kâr içerenler:\n  - Over 3.5 (oran 3.40) veya Over 4.5 (oran 5.95): Olasılıklar düşük olsa da sürpriz riskine karşı ihtiyacı olanlar için alternatifler.\n\nKısa sonuç özetisi\n- Bu maç için en olası senaryo: Yüksek tempolu bir maç ve 2.5+ gol. Her iki takım da gol atabilir (BTTS Yes). Tigres UANL galibiyeti için de güçlü bir aday olabilir, ancak Guadalajara’nın ev sahibi konumu ve savunma riskleri dengelenebilir. Eğer risk almak istemiyorsanız, Tigres’i kapsayan Double Chance veya BTTS + Over kombinasyonları daha dengeli seçenekler sunar.",
+          "de": "<div>\n  <p>Die Saison 2025/2026 startet im Estadio Akron mit Guadalajara als Gastgeber für Tigres UANL. Auf dem Papier ist es ein spannendes Eröffnungsspiel, ein Spiel, das historisch gesehen eher auf Tore ausgerichtet ist.</p>\n\n  <ul>\n    <li>BTTS Ja: 57 % historisch; Quoten dafür bei 1,72. Ein klarer Ansatz angesichts der Angriffsprofile beider Seiten.</li>\n    <li>Über 2,5 Tore: 64 % historische Wahrscheinlichkeit; Preis 1,91 macht es zu einem soliden Value-Play im direkten Vergleich mit 3,82 Gesamt-xG zwischen ihnen historisch.</li>\n    <li>Zweite Hälfte BTTS: 67 % historisch – erwarten Sie Drama nach der Pause.</li>\n    <li>Gegentore: Guadalajara Ja 3,25 / Nein 1,30; Tigres Ja 3,25 / Nein 1,30. Wahrscheinlich haben beide Seiten mindestens ein Tor beigesteuert.</li>\n    <li>Teamform: Guadalajara 1,00 Punkte pro Spiel; Tigres 2,00 Punkte pro Spiel vor dem Spiel. Der Auswärts-xG für Tigres liegt bei 2,36 mit einer Auswärtssiegquote von 67 %, was auf Gefahr auf der Straße hindeutet.</li>\n    <li>Heim- vs. Auswärtsdynamik: Guadalajaras Angriffsstärke ist im Heimspiel um +27 Punkte überlegen, die Defensivschwäche erweist sich jedoch als Nachteil. Die Gefahr auswärts von Tigres steht Guadalajaras Schwäche in der Abwehr gegenüber.</li>\n    <li>Marktnotiz: Doppelte Chance auf Sieg oder Unentschieden Guadalajara 1,25; Doppelte Chance auf Sieg oder Unentschieden Tigres 1,48. Die sicherere Deckung tendiert zu Sieg/Unentschieden Guadalajaras, aber Tigres trägt die Stabilität davon.</li>\n  </ul>\n\n  <p>Prognose: Offene, torreiche Partie. Die wahrscheinlichsten Ergebnisse deuten auf Tore auf beiden Seiten hin, mit der Tendenz zu einem Tigres-Ergebnis oder einem torreichen Unentschieden. Wetten: BTTS Ja und Über 2,5 Tore als kombinierte Option; angesichts der historischen Quote von 64 % über 0,5 Toren in der ersten Halbzeit könnte auch Über 0,5 Tore in der ersten Halbzeit als zusätzliche Option in Betracht gezogen werden.</p>\n</div>",
+          "fr": "<div>\n  <p>La saison 2025/2026 débute à l'Estadio Akron avec Guadalajara recevant les Tigres UANL. Sur le papier, ce match d'ouverture s'annonce intense, un match historiquement axé sur les buts.</p>\n\n  <ul>\n    <li>BTTS Oui&nbsp;: 57&nbsp;% historique&nbsp;; cote de 1,72. Un angle clair compte tenu des profils offensifs des deux équipes.</li>\n    <li>Plus de 2,5 buts : probabilité historique de 64 % ; le prix de 1,91 en fait un jeu de valeur solide dans un face-à-face avec 3,82 xG au total entre eux historiquement.</li>\n    <li>Deuxième mi-temps BTTS : 67 % historique — attendez-vous à du drame après la pause.</li>\n    <li>Clean sheets : Guadalajara Oui 3,25 / Non 1,30 ; Tigres Oui 3,25 / Non 1,30. Il est probable que les deux équipes contribuent au moins par un but.</li>\n    <li>Forme de l'équipe : Guadalajara 1,00 PPG ; Tigres 2,00 PPG avant le match. Le xG à l'extérieur pour les Tigres est de 2,36 avec un taux de victoire à l'extérieur de 67 %, ce qui suggère un danger à l'extérieur.</li>\n    <li>Dynamique domicile-extérieur&nbsp;: L'attaque à domicile de Guadalajara présente un avantage de +27, mais la faiblesse défensive se révèle négative à domicile. La menace des Tigres à l'extérieur s'ajoute à la vulnérabilité défensive de Guadalajara.</li>\n    <li>Note du marché&nbsp;: Double Chance Guadalajara, victoire ou match nul, 1,25&nbsp;; Double Chance Tigres, victoire ou match nul, 1,48. Une couverture plus sûre penche vers Guadalajara, victoire ou défaite, mais les Tigres s'imposent avec constance.</li>\n  </ul>\n\n  <p>Pronostic&nbsp;: un match ouvert et riche en buts. Les probabilités de buts sont élevées des deux côtés, avec une préférence pour un résultat des Tigres ou un match nul riche en buts. Suggestions de paris&nbsp;: BTTS Oui et Plus de 2,5 buts en combinaison&nbsp;; envisagez Plus de 0,5 but en première mi-temps comme option supplémentaire, compte tenu du taux historique de 64&nbsp;% de buts en première mi-temps supérieurs à 0,5.</p>\n</div>",
+          "jp": "<div>\n  <p>2025/2026シーズンは、グアダラハラがティグレスUANLを迎えてエスタディオ・アクロンで開幕します。この試合は、歴史的にゴールラッシュが予想される、非常にエキサイティングな開幕戦となるでしょう。</p>\n\n  <ul>\n    <li>BTTS：過去57%。オッズは1.72倍。両チームの攻撃力を考えると、明確な見通しだ。</li>\n    <li>2.5 ゴール以上: 歴史的には 64% の確率。オッズ 1.91 は、歴史的に両者の合計 xG が 3.82 であるため、直接対決では確実に価値のあるプレイとなります。</li>\n    <li>後半のBTTS: 歴史的な67% — 休憩後にドラマが期待されます。</li>\n    <li>クリーンシート：グアダラハラ：あり 3.25 / なし 1.30、ティグレス：あり 3.25 / なし 1.30。両チームとも少なくとも1ゴールは貢献する可能性が高い。</li>\n    <li>チームの成績：グアダラハラ1.00 PPG、ティグレスは試合開始時点で2.00 PPG。ティグレスのアウェーxGは2.36で、アウェー勝率は67%と、アウェーでの危険な状況が予想されます。</li>\n    <li>ホーム vs アウェイのダイナミクス：グアダラハラのホーム攻撃は+27の優位性を持つが、守備の弱さはホームではマイナスに働く。ティグレスのアウェイでの脅威は、グアダラハラの守備の脆弱性と相まって、より強固な守備を見せる。</li>\n    <li>市場ノート：グアダラハラの勝利または引き分けのダブルチャンスは1.25倍、ティグレスの勝利または引き分けのダブルチャンスは1.48倍。より安全な賭けはグアダラハラの勝利または引き分けに傾くが、ティグレスは安定感を持って勝利するだろう。</li>\n  </ul>\n\n  <p>予想：オープンでゴールラッシュが予想される試合。両チームともゴールが生まれ、ティグレスが勝利するか、得点の多い引き分けになる可能性が高い。推奨ベット：BTTSありと2.5ゴールオーバーを組み合わせた戦略。前半の0.5ゴールオーバーは過去の64%の確率であることから、前半0.5ゴールオーバーも補足的な賭けとして検討する。</p>\n</div>",
+          "it": "<div>\n  <p>La stagione 2025/2026 inizia all'Estadio Akron con il Guadalajara che ospita il Tigres UANL. Sulla carta, si tratta di un esordio ad alto tasso di adrenalina, una partita che storicamente ha sempre favorito il gol.</p>\n\n  <ul>\n    <li>BTTS Sì: 57% storico; probabilità di sostenerlo a 1,72. Un'angolazione chiara considerando i profili offensivi di entrambe le squadre.</li>\n    <li>Oltre 2,5 gol: probabilità storica del 64%; il prezzo di 1,91 lo rende una giocata di valore solido in un testa a testa con 3,82 xG totali tra loro storicamente.</li>\n    <li>Secondo tempo BTTS: 67% storico — aspettatevi drammi dopo la pausa.</li>\n    <li>Porta inviolata: Guadalajara Sì 3.25 / No 1.30; Tigres Sì 3.25 / No 1.30. È probabile che entrambe le squadre segnino almeno un gol.</li>\n    <li>Stato di forma della squadra: Guadalajara 1,00 punti a partita; Tigres 2,00 punti a partita all'inizio della partita. L'xG in trasferta del Tigres è 2,36 con una percentuale di vittorie in trasferta del 67%, il che suggerisce un pericolo in trasferta.</li>\n    <li>Dinamiche casa-trasferta: l'attacco casalingo del Guadalajara ha un vantaggio di +27, ma la debolezza difensiva si rivela negativa in casa. La minaccia in trasferta del Tigres si somma alla vulnerabilità del Guadalajara in difesa.</li>\n    <li>Nota di mercato: Doppia Chance Guadalajara Vittoria o Pareggio 1,25; Doppia Chance Tigres Vittoria o Pareggio 1,48. Una copertura più sicura propende per Guadalajara V/N, ma il Tigres mantiene la stabilità.</li>\n  </ul>\n\n  <p>Pronostico: partita aperta e ricca di gol. I risultati più probabili indicano gol da entrambe le parti, con una propensione per un risultato del Tigres o un pareggio con un alto numero di gol. Scommesse consigliate: BTTS Sì e Over 2,5 Gol come angolazione combinata; considerare Primo Tempo Over 0,5 Gol come giocata supplementare, dato il 64% di over 0,5 nel primo tempo.</p>\n</div>",
+          "se": "<div>\n  <p>Säsongen 2025/2026 drar igång på Estadio Akron med Guadalajara som tar emot Tigres UANL. Det är en på pappret högoktanig premiärmatch, en match som historiskt sett har lutat mot mål.</p>\n\n  <ul>\n    <li>BTTS Ja: 57 % historiskt sett; oddset ligger på 1,72. En tydlig vinkel med tanke på båda sidors anfallsprofiler.</li>\n    <li>Över 2,5 mål: 64 % historisk sannolikhet; priset 1,91 gör det till ett solidt värdefullt spel i en head-to-head-match med 3,82 total xG mellan dem historiskt sett.</li>\n    <li>Andra halvlek BTTS: 67% historiskt — förvänta dig dramatik efter pausen.</li>\n    <li>Clean sheets: Guadalajara Ja 3.25 / Nej 1.30; Tigres Ja 3.25 / Nej 1.30. Troligtvis bidrar båda lagen med minst ett mål.</li>\n    <li>Lagform: Guadalajara 1.00 poäng per match; Tigres 2.00 poäng per match inför matchen. Borta xG för Tigres är 2.36 med en vinstprocent på 67 %, vilket tyder på fara på bortaplan.</li>\n    <li>Hemma vs borta-dynamik: Guadalajaras hemmaanfall har en fördel på +27, men defensiv förmåga visar sig negativt i hemmasammanhang. Tigres bortahot paras ihop med Guadalajaras sårbarhet i försvaret.</li>\n    <li>Marknadsnotering: Dubbelchans Guadalajara vinst eller oavgjort 1.25; Dubbelchans Tigres vinst eller oavgjort 1.48. Säkrare täckning lutar åt Guadalajara seger/oavgjort, men Tigres bär med sig stabilitet.</li>\n  </ul>\n\n  <p>Förutsägelse: en öppen, måltät tillställning. De mest sannolika resultaten pekar mot mål på båda sidor med en lutning mot ett resultat mot Tigrarna eller oavgjort med många mål. Förslag på spel: BTTS Ja och Över 2,5 mål som en kombinerad vinkel; betrakta Första halvlek Över 0,5 mål som ett kompletterande spel med tanke på de 64 % historiska första halvleksresultaten över 0,5.</p>\n</div>",
+          "ru": "<div>\n  <p>Sezóna 2025/2026 začína na štadióne Akron zápasom Guadalajara s Tigres UANL. Na papieri ide o napínavý úvodný zápas, ktorý sa historicky prikláňa k gólom.</p>\n\n  <ul>\n    <li>BTTS Áno: 57 % historických výsledkov; kurz na to je 1,72. Vzhľadom na útočné profily oboch strán je to jasný uhol.</li>\n    <li>Viac ako 2,5 gólu: historická pravdepodobnosť 64 %; kurz 1,91 z neho robí solídnu hodnotu v priamom súboji s celkovým xG medzi nimi 3,82 v historickom porovnaní.</li>\n    <li>Úspešnosť druhého polčasu: 67 % historicky úspešných zápasov – po prestávke očakávajte drámu.</li>\n    <li>Čisté kontá: Guadalajara Áno 3,25 / Nie 1,30; Tigres Áno 3,25 / Nie 1,30. Pravdepodobne oba tímy strelia aspoň jeden gól.</li>\n    <li>Forma tímu: Guadalajara 1,00 bodu na zápas; Tigres 2,00 bodu na zápas. Kurz xG pre Tigres na ihrisku súpera je 2,36 s 67% víťazstvami na ihrisku súpera, čo naznačuje nebezpečenstvo na ihrisku súpera.</li>\n    <li>Dynamika zápasov doma a vonku: Domáci útok Guadalajary má výhodu +27, ale obranná neochota sa v domácom prostredí prejavuje negatívne. Hrozba Tigres vonku sa snúbi so zraniteľnosťou Guadalajary v obrane.</li>\n    <li>Trhový prehľad: Dvojitá šanca na výhru alebo remízu Guadalajary 1,25; Dvojitá šanca na výhru alebo remízu Tigres 1,48. Bezpečnejšie krytie sa prikláňa k výhre/prehre Guadalajary, ale Tigres si odnesú stabilitu.</li>\n  </ul>\n\n  <p>Predpoveď: otvorený zápas s vysokým počtom gólov. Najpravdepodobnejšie výsledky poukazujú na góly na oboch stranách s prikláňaním sa k výsledku Tigres alebo remíze s vysokým skóre. Navrhované stávky: Áno a viac ako 2,5 gólu ako kombinovaný uhol; stávky na viac ako 0,5 gólu v prvom polčase zvážte ako doplnkovú akciu vzhľadom na 64 % historických výsledkov nad 0,5 gólu v prvom polčase.</p>\n</div>",
+          "kr": "<div>\n  <p>2025/2026 시즌은 에스타디오 애크론에서 과달라하라가 티그레스 UANL을 홈으로 맞이하는 경기로 시작됩니다. 경기는 전술적으로 매우 흥미진진한 개막전이며, 역사적으로 골이 많이 나오는 경기였습니다.</p>\n\n  <ul>\n    <li>BTTS 가능성: 과거 배당률 57%; 배당률 1.72. 양 팀의 공격 패턴을 고려하면 확실한 예측입니다.</li>\n    <li>2.5골 이상: 역사적 가능성 64%; 가격 1.91은 두 팀의 역사적 xG가 3.82인 맞대결에서 견고한 가치를 지닌 경기입니다.</li>\n    <li>후반전 BTTS: 67%가 역사적 사실입니다. 휴식 후 드라마가 펼쳐질 것으로 예상됩니다.</li>\n    <li>클린 시트: 과달라하라 예 3.25 / 무실점 1.30; 티그레스 예 3.25 / 무실점 1.30. 양 팀 모두 최소 1골 이상 기여할 것으로 예상.</li>\n    <li>팀 성적: 과달라하라 1.00 PPG; 티그레스 2.00 PPG (경기 시작 전). 티그레스의 원정 xG는 2.36이며, 원정 승률은 67%로 원정에서 위협적인 모습을 보이고 있습니다.</li>\n    <li>홈 vs 원정 경기 역학: 과달라하라의 홈 공격은 +27의 우위를 점하고 있지만, 수비 부담은 홈에서 마이너스로 나타납니다. 티그레스의 원정 위협은 과달라하라의 수비 취약성과 맞물립니다.</li>\n    <li>시장 정보: 더블 찬스 과달라하라 승/무승부 1.25; 더블 찬스 티그레스 승/무승부 1.48. 안전한 선택지는 과달라하라 승/무승부 쪽으로 기울어 있지만, 티그레스가 안정적인 흐름을 이어가고 있습니다.</li>\n  </ul>\n\n  <p>예측: 승부가 가려지지 않고 골이 빽빽하게 터지는 경기입니다. 양 팀 모두 골을 넣을 가능성이 높으며, 티그레스의 승리 또는 고득점 무승부로 이어질 가능성이 높습니다. 추천 베팅: BTTS 예스 베팅과 2.5골 이상 베팅을 합친 베팅입니다. 과거 전반전 0.5골 이상 베팅 비율이 64%였으므로, 전반전 0.5골 이상 베팅을 추가 베팅으로 고려해 보세요.</p>\n</div>",
+          "nl": "<div>\n  <p>Seizoen 2025/2026 begint in Estadio Akron, waar Guadalajara Tigres UANL ontvangt. Op papier is het een energieke openingswedstrijd, een wedstrijd die traditioneel vooral om doelpunten draait.</p>\n\n  <ul>\n    <li>BTTS Ja: 57% historisch; odds om te steunen zijn 1,72. Een duidelijke invalshoek gezien het aanvallende profiel van beide teams.</li>\n    <li>Meer dan 2,5 Doelpunten: historische waarschijnlijkheid van 64%; koers van 1,91 maakt het een solide waarde in een head-to-head met een totale xG van 3,82 historisch gezien.</li>\n    <li>Tweede helft BTTS: 67% historisch — verwacht drama na de rust.</li>\n    <li>Clean sheets: Guadalajara Ja 3.25 / Nee 1.30; Tigres Ja 3.25 / Nee 1.30. Waarschijnlijk dat beide teams minimaal een doelpunt bijdragen.</li>\n    <li>Teamvorm: Guadalajara 1,00 punten per wedstrijd; Tigres 2,00 punten per wedstrijd. De uitwedstrijd-xG voor Tigres is 2,36 met een winstpercentage van 67%, wat wijst op gevaar op bezoek.</li>\n    <li>Dynamiek thuis-uit: Guadalajara's aanval thuis heeft een voorsprong van +27, maar de zwakke verdediging uit zich in een thuissituatie als een minpunt. De dreiging van Tigres in uitwedstrijden gaat samen met de kwetsbaarheid van Guadalajara achterin.</li>\n    <li>Marktnotitie: Dubbele kans op winst of gelijkspel voor Guadalajara 1,25; dubbele kans op winst of gelijkspel voor Tigres 1,48. Veiligere dekking neigt naar winst/verlies voor Guadalajara, maar Tigres neemt de standvastigheid weg.</li>\n  </ul>\n\n  <p>Voorspelling: een open, doelpuntrijke aangelegenheid. De meest waarschijnlijke uitkomsten wijzen op doelpunten aan beide kanten, met een voorkeur voor een Tigres-resultaat of een gelijkspel met veel doelpunten. Wedtips: BTTS Ja en Meer dan 2,5 doelpunten als gecombineerde optie; beschouw Meer dan 0,5 doelpunten in de eerste helft als een aanvullende weddenschap, gezien de historische 64% van meer dan 0,5 doelpunten in de eerste helft.</p>\n</div>",
+          "dk": "<div>\n  <p>Sæsonen 2025/2026 starter på Estadio Akron, hvor Guadalajara er vært for Tigres UANL. Det er en på papiret spændende åbningskamp, ​​en kamp der historisk set har hældet mod mål.</p>\n\n  <ul>\n    <li>BTTS Ja: 57% historisk; odds for at satse på det er 1,72. En klar vinkel givet begge siders angrebsprofiler.</li>\n    <li>Over 2,5 mål: 64 % historisk sandsynlighed; prisen 1,91 gør det til et solidt spil i en head-to-head-kamp med 3,82 samlet xG historisk set imellem dem.</li>\n    <li>Anden halvlegs BTTS: 67% historisk — forvent drama efter pausen.</li>\n    <li>Clean sheets: Guadalajara Ja 3.25 / Nej 1.30; Tigres Ja 3.25 / Nej 1.30. Sandsynligvis bidrager begge hold med mindst et mål.</li>\n    <li>Holdform: Guadalajara 1,00 point pr. kamp; Tigres 2,00 point pr. kamp inden kampen. Tigres' udebane xG er 2,36 med en sejrsrate på 67%, hvilket tyder på fare på udebane.</li>\n    <li>Hjemme vs. udebanedynamik: Guadalajaras hjemmeangreb har en fordel på +27, men defensivens svaghed viser sig som en negativ faktor i hjemmekampe. Tigres' udebanetrussel parres med Guadalajaras sårbarhed i forsvaret.</li>\n    <li>Markedsnote: Dobbelt chance for Guadalajara-sejr eller uafgjort 1,25; Dobbelt chance for Tigres-sejr eller uafgjort 1,48. Sikrere dækning hælder mod Guadalajara-sejr eller uafgjort, men Tigres bærer med sig stabilitet.</li>\n  </ul>\n\n  <p>Forudsigelse: En åben affære med mange mål. De mest sandsynlige udfald peger på mål på begge sider, med en hældning mod et resultat mod Tigres eller uafgjort med mange mål. Foreslåede væddemål: BTTS Ja og Over 2,5 Mål som en kombineret vinkel; betragt Første Halvleg Over 0,5 Mål som et supplerende spil givet de 64% historiske resultater i første halvleg over 0,5.</p>\n</div>",
+          "no": "<div>\n  <p>Sesongen 2025/2026 sparkes i gang på Estadio Akron med Guadalajara som er vertskap for Tigres UANL. Det er en spennende åpningskamp på papiret, en kamp som historisk sett har vært preget av mål.</p>\n\n  <ul>\n    <li>BTTS Ja: 57 % historisk; odds for å støtte det er 1,72. En klar vinkel gitt begge siders angrepsprofiler.</li>\n    <li>Over 2,5 mål: 64 % historisk sannsynlighet; prisen 1,91 gjør det til et solid verdispill i en head-to-head-kamp med 3,82 total xG mellom dem historisk sett.</li>\n    <li>Andre omgang BTTS: 67 % historisk – forvent drama etter pause.</li>\n    <li>Clean sheets: Guadalajara Ja 3.25 / Nei 1.30; Tigres Ja 3.25 / Nei 1.30. Sannsynlig at begge lag bidrar med minst ett mål.</li>\n    <li>Lagform: Guadalajara 1,00 poeng per kamp; Tigres 2,00 poeng per kamp før kampen. Borte-xG for Tigres er 2,36 med en seiersrate på bortebane på 67 %, noe som tyder på fare på bortebane.</li>\n    <li>Hjemme vs. bortedynamikk: Guadalajaras hjemmeangrep har en fordel på +27, men defensiv svakhet viser seg som en negativ side på hjemmebane. Tigres' bortetrussel kombineres med Guadalajaras sårbarhet i forsvaret.</li>\n    <li>Markedsnotat: Dobbel sjanse for Guadalajara-seier eller uavgjort 1,25; Dobbel sjanse for Tigres-seier eller uavgjort 1,48. Tryggere dekning heller mot Guadalajara-seier eller uavgjort, men Tigres bærer med seg stabilitet.</li>\n  </ul>\n\n  <p>Spådom: En åpen affære med mye mål. De mest sannsynlige utfallene peker mot mål på begge sider, med en tendens til et resultat mot Tigres eller uavgjort med mange mål. Foreslåtte spill: BTTS Ja og Over 2,5 mål som en kombinert vinkel; vurder første omgang over 0,5 mål som et tilleggsspill gitt de 64 % historiske første omgangen over 0,5.</p>\n</div>",
+          "cz": "<div>\n  <p>Sezóna 2025/2026 začíná na stadionu Akron utkáním Guadalajary s Tigres UANL. Na papíře je to napínavý úvodní zápas, který se historicky přikláněl k vstřelení gólů.</p>\n\n  <ul>\n    <li>BTTS Ano: 57% historická pravděpodobnost; kurz na sázení je 1,72. Vzhledem k útočným profilům obou týmů je to jasný úhel.</li>\n    <li>Více než 2,5 gólu: historická pravděpodobnost 64 %; kurz 1,91 z něj dělá solidní sázku ve vzájemném utkání s celkovým xG mezi nimi historicky 3,82.</li>\n    <li>BTTS ve druhé polovině: 67% historicky úspěšnost – po přestávce očekávejte drama.</li>\n    <li>Čistá konta: Guadalajara Ano 3,25 / Ne 1,30; Tigres Ano 3,25 / Ne 1,30. Pravděpodobné, že oba týmy vstřelí alespoň jeden gól.</li>\n    <li>Forma týmu: Guadalajara 1,00 bodů na zápas; Tigres 2,00 bodů na zápas. Venkovní xG Tigresu je 2,36 s 67% výhrou venku, což naznačuje nebezpečí na hrozícím hrozícím hrozícím zápase.</li>\n    <li>Dynamika zápasů doma a venku: Domácí útok Guadalajary má výhodu +27, ale obranná odpovědnost se v domácím prostředí projevuje jako negativní aspekt. Hrozba Tigres na hřišti venkovních týmů se snoubí se zranitelností Guadalajary v obraně.</li>\n    <li>Poznámka k trhu: Dvojitá šance na výhru nebo remízu Guadalajary 1,25; Dvojitá šance na výhru nebo remízu Tigres 1,48. Bezpečnější krytí se přiklání k výhře/devize Guadalajary, ale Tigres si odnáší stabilitu.</li>\n  </ul>\n\n  <p>Předpověď: otevřený zápas s vysokou gólovou hustotou. Nejpravděpodobnější výsledky ukazují na góly na obou stranách s příklonem k výsledku proti Tigres nebo remíze s vysokým skóre. Doporučené sázky: Ano a více než 2,5 gólu jako kombinovaný úhel pohledu; více než 0,5 gólu v prvním poločase zvažte jako doplňkovou sázku vzhledem k 64% historickému procentu více než 0,5 v prvním poločase.</p>\n</div>",
+          "gr": "<div>\n  <p>Η σεζόν 2025/2026 ξεκινά στο Estadio Akron με την Γκουανταλαχάρα να υποδέχεται την Tigres UANL. Είναι ένα δυνατό εναρκτήριο παιχνίδι στα χαρτιά, ένα παιχνίδι που ιστορικά έτεινε προς τα γκολ.</p>\n\n  <ul>\n    <li>BTTS Ναι: 57% ιστορικό· πιθανότητες υπέρ του στο 1.72. Μια σαφής οπτική γωνία δεδομένου του επιθετικού προφίλ και των δύο ομάδων.</li>\n    <li>Πάνω από 2,5 γκολ: 64% ιστορική πιθανότητα. Η τιμή 1,91 το καθιστά ένα ισχυρό value play σε έναν αγώνα head-to-head με 3,82 συνολικά xG μεταξύ τους ιστορικά.</li>\n    <li>BTTS δευτέρου ημιχρόνου: 67% ιστορικό — αναμένεται δράμα μετά το διάλειμμα.</li>\n    <li>Μηδέν εστία: Γκουανταλαχάρα Ναι 3.25 / Όχι 1.30; Τίγκρες Ναι 3.25 / Όχι 1.30. Πιθανότατα και οι δύο ομάδες να έχουν πετύχει τουλάχιστον ένα γκολ.</li>\n    <li>Φόρμα ομάδας: Γκουανταλαχάρα 1.00 πόντοι ανά παιχνίδι· Τίγκρες 2.00 πόντοι ανά παιχνίδι. Το εκτός έδρας xG για τις Τίγκρες είναι 2.36 με ποσοστό νικών εκτός έδρας 67%, γεγονός που υποδηλώνει κίνδυνο εκτός έδρας.</li>\n    <li>Δυναμική εντός έδρας εναντίον εκτός έδρας: Η εντός έδρας επίθεση της Γκουανταλαχάρα έχει πλεονέκτημα +27, αλλά η αμυντική αδυναμία φαίνεται αρνητική σε εντός έδρας παιχνίδια. Η απειλή των Τίγκρες εκτός έδρας συνδυάζεται με την ευπάθεια της Γκουανταλαχάρα στην άμυνα.</li>\n    <li>Σημείωση αγοράς: Διπλή ευκαιρία για νίκη ή ισοπαλία της Γκουανταλαχάρα 1.25. Διπλή ευκαιρία για νίκη ή ισοπαλία των Τίγκρες 1.48. Η ασφαλέστερη κάλυψη κλίνει προς τη Γκουανταλαχάρα για νίκη/ισοπαλία, αλλά οι Τίγκρες χάνουν τη σταθερότητα.</li>\n  </ul>\n\n  <p>Πρόβλεψη: μια ανοιχτή αναμέτρηση με πυκνά γκολ. Τα πιθανότερα αποτελέσματα δείχνουν γκολ και από τις δύο ομάδες, με την πιθανότητα να σκοράρουν οι Τίγκρες ή να υπάρξει ισοπαλία με υψηλό σκορ. Προτεινόμενα στοιχήματα: Ναι στο BTTS και Over 2.5 γκολ ως συνδυαστική προσέγγιση. Θεωρήστε το Over 0.5 γκολ στο πρώτο ημίχρονο ως συμπληρωματική φάση, δεδομένου του ιστορικού 64% του πρώτου ημιχρόνου με πάνω από 0.5.</p>\n</div>",
+          "pl": "<div>\n  <p>Sezon 2025/2026 rozpoczyna się na Estadio Akron meczem Guadalajary z Tigres UANL. To emocjonujący mecz otwarcia, który historycznie skupiał się na strzeleniu goli.</p>\n\n  <ul>\n    <li>BTTS Tak: 57% historyczne; kurs na to 1,72. Wyraźny kąt, biorąc pod uwagę ofensywne profile obu drużyn.</li>\n    <li>Powyżej 2,5 goli: 64% historycznego prawdopodobieństwa; kurs 1,91 sprawia, że ​​jest to solidna inwestycja w pojedynku, przy historycznej wartości xG wynoszącej 3,82.</li>\n    <li>BTTS w drugiej połowie: historyczne 67% — spodziewaj się dramatyzmu po przerwie.</li>\n    <li>Czyste konto: Guadalajara Tak 3.25 / Nie 1.30; Tigres Tak 3.25 / Nie 1.30. Prawdopodobne, że obie strony strzelą co najmniej po golu.</li>\n    <li>Forma drużyny: Guadalajara 1,00 pkt. na mecz; Tigres 2,00 pkt. na mecz przed rozpoczęciem meczu. Wyjazdowy wskaźnik xG dla Tigres wynosi 2,36, a wskaźnik wygranych na wyjeździe 67%, co sugeruje zagrożenie na wyjeździe.</li>\n    <li>Dynamika meczów u siebie i na wyjeździe: Atak Guadalajary u siebie ma przewagę +27, ale słabość w obronie jest w tym kontekście negatywna. Zagrożenie ze strony Tigres na wyjeździe idzie w parze z podatnością Guadalajary na ataki w obronie.</li>\n    <li>Nota rynkowa: Podwójna szansa na wygraną lub remis w Guadalajarze 1,25; Podwójna szansa na wygraną lub remis w Tigres 1,48. Bezpieczniejsze pokrycie skłania się ku wygranej/remisowi w Guadalajarze, ale Tigres zapewniają stabilność.</li>\n  </ul>\n\n  <p>Prognoza: otwarte spotkanie z dużą liczbą bramek. Najbardziej prawdopodobne wyniki wskazują na gole po obu stronach, z przewagą wyniku Tigres lub remisu z dużą liczbą bramek. Sugerowane zakłady: BTTS (tak) i powyżej 2,5 gola jako wariant łączony; rozważ zakład na pierwszą połowę powyżej 0,5 gola jako wariant uzupełniający, biorąc pod uwagę 64% historycznych wyników w pierwszej połowie powyżej 0,5 gola.</p>\n</div>",
+          "ro": "<div>\n  <p>Sezonul 2025/2026 începe pe Estadio Akron, cu Guadalajara găzduind Tigres UANL. Este un meci de deschidere cu un octanism puternic pe hârtie, un meci care a înclinat dintotdeauna spre goluri.</p>\n\n  <ul>\n    <li>BTTS Da: 57% istoric; șansele să susțină situația sunt de 1,72. Un unghi clar, având în vedere profilurile de atac ale ambelor echipe.</li>\n    <li>Peste 2,5 goluri: probabilitate istorică de 64%; prețul de 1,91 îl face o alegere valoroasă într-o confruntare directă, cu un total de 3,82 xG între ele din punct de vedere istoric.</li>\n    <li>BTTS a doua repriză: 67% istoric — așteptați-vă la dramă după pauză.</li>\n    <li>La gol fără gol: Guadalajara Da 3.25 / Nu 1.30; Tigres Da 3.25 / Nu 1.30. Probabil ca ambele echipe să contribuie cu cel puțin un gol.</li>\n    <li>Forma echipei: Guadalajara 1.00 PPG; Tigres 2.00 PPG la începutul meciului. xG-ul în deplasare pentru Tigres este de 2.36, cu o rată de victorie în deplasare de 67%, ceea ce sugerează pericol în deplasare.</li>\n    <li>Dinamica teren propriu vs. deplasare: Atacul echipei Guadalajara pe teren propriu are un avantaj de +27, dar riscul defensiv este negativ în contextul de acasă. Amenințarea echipei Tigres în deplasare se combină cu vulnerabilitatea echipei Guadalajara în defensivă.</li>\n    <li>Notă de piață: Șansă dublă pentru Guadalajara câștigă sau egal 1,25; Șansă dublă pentru Tigres câștigă sau egal 1,48. O acoperire mai sigură înclină spre victoria/eșecul lui Guadalajara, dar Tigres duc cu sine stabilitatea.</li>\n  </ul>\n\n  <p>Predicție: o aventură deschisă, cu multe goluri marcate. Cele mai probabile rezultate indică goluri de ambele părți, cu înclinație spre un rezultat în favoarea echipei Tigres sau o remiză cu scoruri mari. Pariuri sugerate: BTTS Da și Peste 2,5 goluri ca unghi combinat; luați în considerare Prima repriză Peste 0,5 goluri ca o acțiune suplimentară, având în vedere rata istorică de 64% a primei reprize peste 0,5.</p>\n</div>",
+          "id": "<div>\n  <p>Musim 2025/2026 dimulai di Estadio Akron dengan Guadalajara menjamu Tigres UANL. Laga pembuka ini di atas kertas akan berlangsung sengit, sebuah pertandingan yang secara historis cenderung menghasilkan gol.</p>\n\n  <ul>\n    <li>BTTS Ya: 57% historis; peluangnya adalah 1,72. Sudut yang jelas mengingat profil serangan kedua tim.</li>\n    <li>Lebih dari 2,5 Gol: Kemungkinan historis 64%; harga 1,91 menjadikannya permainan nilai yang solid dalam pertarungan satu lawan satu dengan total xG 3,82 di antara keduanya secara historis.</li>\n    <li>BTTS babak kedua: 67% historis — perkirakan drama setelah jeda.</li>\n    <li>Clean sheet: Guadalajara Ya 3,25 / Tidak 1,30; Tigres Ya 3,25 / Tidak 1,30. Kemungkinan kedua tim akan menyumbang setidaknya satu gol.</li>\n    <li>Performa tim: Guadalajara 1,00 PPG; Tigres 2,00 PPG memasuki pertandingan. XG tandang untuk Tigres adalah 2,36 dengan rasio kemenangan tandang 67%, menunjukkan potensi bahaya di laga tandang.</li>\n    <li>Dinamika kandang vs tandang: Serangan kandang Guadalajara memiliki keunggulan +27, tetapi kelemahan pertahanan terbukti negatif dalam konteks kandang. Ancaman tandang Tigres berpadu dengan kerentanan pertahanan Guadalajara.</li>\n    <li>Catatan pasar: Peluang Ganda Guadalajara Menang atau Seri 1,25; Peluang Ganda Tigres Menang atau Seri 1,48. Lini pertahanan yang lebih aman condong ke Guadalajara Menang/D, tetapi Tigres tetap kokoh.</li>\n  </ul>\n\n  <p>Prediksi: Pertandingan terbuka dan sengit. Kemungkinan besar kedua tim akan mencetak gol, dengan kecenderungan hasil Tigres atau hasil imbang dengan skor tinggi. Saran taruhan: BTTS Ya dan Over 2,5 Gol sebagai kombinasi; pertimbangkan Over 0,5 Gol Babak Pertama sebagai taruhan tambahan mengingat sejarah over 0,5 babak pertama sebesar 64%.</p>\n</div>",
+          "hr": "<div>\n  <p>Sezona 2025./2026. počinje na stadionu Akron gdje Guadalajara dočekuje Tigres UANL. Na papiru je to uzbudljiva otvarajuća utakmica, utakmica koja je povijesno gledano težila golovima.</p>\n\n  <ul>\n    <li>BTTS Da: 57% povijesnih rezultata; kvota za to je 1,72. Čist kut s obzirom na napadačke profile obje strane.</li>\n    <li>Više od 2,5 gola: 64% povijesne vjerojatnosti; kvota 1,91 čini ga solidnom vrijednošću u međusobnom susretu s ukupnim xG-om od 3,82 povijesno.</li>\n    <li>BTTS u drugom poluvremenu: 67% povijesnih rezultata — očekujte dramu nakon odmora.</li>\n    <li>Neporaženi: Guadalajara Da 3.25 / Ne 1.30; Tigres Da 3.25 / Ne 1.30. Vjerojatno je da će obje strane postići barem gol.</li>\n    <li>Forma momčadi: Guadalajara 1,00 PPG; Tigres 2,00 PPG na početku utakmice. xG Tigresa u gostima je 2,36 s 67% pobjeda u gostima, što sugerira opasnost na gostovanjima.</li>\n    <li>Dinamika domaćih i gostujućih utakmica: Guadalajarin domaći napad ima prednost od +27, ali obrambena odgovornost pokazuje se kao negativna u domaćim kontekstima. Tigresova gostujuća prijetnja uparuje se s Guadalajarinom ranjivošću u obrani.</li>\n    <li>Napomena s tržišta: Dvostruka šansa za pobjedu ili neriješeno za Guadalajaru 1.25; Dvostruka šansa za pobjedu ili neriješeno za Tigres 1.48. Sigurnija kvota naginje prema pobjedi/neriješeno za Guadalajaru, ali Tigres odnosi stabilnost.</li>\n  </ul>\n\n  <p>Predviđanje: otvorena utakmica s puno golova. Najvjerojatniji ishodi ukazuju na golove na obje strane, s nagnućem prema rezultatu Tigresa ili neriješenom rezultatu s visokim rezultatom. Predložene oklade: BTTS Da i Više od 2,5 gola kao kombinirani kut; Više od 0,5 gola u prvom poluvremenu razmotrite kao dodatnu igru ​​s obzirom na 64% povijesnih više od 0,5 gola u prvom poluvremenu.</p>\n</div>",
+          "th": "<div>\n  <p>ฤดูกาล 2025/2026 จะเริ่มต้นขึ้นที่เอสตาดิโอ แอครอน โดยกัวดาลาฮาราจะเปิดบ้านรับการมาเยือนของติเกรส ยูเอเอ็นแอล ถือเป็นเกมเปิดฤดูกาลที่ดุเดือดบนกระดาษ และเป็นเกมที่มีประวัติศาสตร์เน้นการทำประตูเป็นหลัก</p>\n\n  <ul>\n    <li>BTTS ใช่: 57% ตามประวัติศาสตร์ มีโอกาสชนะ 1.72 มุมที่ชัดเจนเมื่อพิจารณาจากโปรไฟล์การรุกของทั้งสองฝ่าย</li>\n    <li>มากกว่า 2.5 ประตู: มีโอกาสเกิดขึ้นจริง 64% ราคา 1.91 ทำให้เป็นการเล่นที่มีมูลค่ามั่นคงในแบบพบกันหมดโดยมี xG รวมระหว่างทั้งคู่ที่ 3.82 ในอดีต</li>\n    <li>ครึ่งหลัง BTTS: 67% ตามประวัติศาสตร์ — คาดว่าจะดราม่าหลังพักเบรก</li>\n    <li>คลีนชีต: กัวดาลาฮารา ใช่ 3.25 / ไม่ 1.30; ติเกรส ใช่ 3.25 / ไม่ 1.30 มีแนวโน้มว่าทั้งสองฝ่ายจะมีส่วนร่วมอย่างน้อยหนึ่งประตู</li>\n    <li>ฟอร์มทีม: กัวดาลาฮารา 1.00 แต้มต่อเกม; ติเกรส 2.00 แต้มต่อเกมก่อนเริ่มเกม ค่า xG ของทีมติเกรสอยู่ที่ 2.36 และมีอัตราการชนะนอกบ้าน 67% บ่งชี้ถึงความอันตรายในการแข่งขันนอกบ้าน</li>\n    <li>พลวัตระหว่างเกมเหย้ากับเกมเยือน: เกมรุกในบ้านของกัวดาลาฮารามีข้อได้เปรียบ +27 แต่ความเสี่ยงในการป้องกันกลับกลายเป็นผลเสียเมื่อเล่นในบ้าน ภัยคุกคามจากเกมเยือนของติเกรสยังสอดคล้องกับความเปราะบางของกัวดาลาฮาราในแนวรับ</li>\n    <li>หมายเหตุตลาด: โอกาสสองเท่า Guadalajara ชนะหรือเสมอ 1.25; โอกาสสองเท่า Tigres ชนะหรือเสมอ 1.48 การป้องกันที่ปลอดภัยกว่าเอนเอียงไปทาง Guadalajara W/D แต่ Tigres ก็มีความมั่นคงน้อยกว่า</li>\n  </ul>\n\n  <p>การคาดการณ์: การแข่งขันแบบเปิดและเต็มไปด้วยประตู ผลการแข่งขันที่น่าจะเป็นไปได้มากที่สุดชี้ไปที่ประตูของทั้งสองทีม โดยมีแนวโน้มไปทาง Tigres หรือผลเสมอที่มีสกอร์สูง การเดิมพันที่แนะนำ: BTTS ใช่ และสูงกว่า 2.5 ประตู เป็นการเดิมพันรวม พิจารณาครึ่งแรกสูงกว่า 0.5 ประตูเป็นการเดิมพันเสริม เนื่องจากอัตราต่อรองในครึ่งแรกสูงกว่า 0.5 ประตู อยู่ที่ 64% ในอดีต</p>\n</div>",
+          "fi": "<div>\n  <p>Kausi 2025/2026 alkaa Estadio Akronilla, kun Guadalajara isännöi Tigres UANL:ää. Paperilla kyseessä on korkeaoktaaninen avausottelu, joka on historiallisesti kallistunut maalien tekemisen suuntaan.</p>\n\n  <ul>\n    <li>BTTS Kyllä: 57 % historiallinen; vetokerroin 1,72. Selkeä kulma ottaen huomioon molempien osapuolten hyökkäysprofiilit.</li>\n    <li>Yli 2,5 maalia: Historiallinen todennäköisyys 64 %; hinta 1,91 tekee siitä vankan arvopelin vastakkaisissa otteluissa, sillä heidän historiallinen kokonaiskerroin (xG) on 3,82.</li>\n    <li>Toisen puoliajan BTTS: 67 % historiallinen – odotettavissa draamaa tauon jälkeen.</li>\n    <li>Nollamaalit: Guadalajara Kyllä 3,25 / Ei 1,30; Tigres Kyllä 3,25 / Ei 1,30. Todennäköisesti molemmat joukkueet tekevät vähintään yhden maalin.</li>\n    <li>Joukkueen pelikunto: Guadalajara 1,00 pistettä/ottelu; Tigres 2,00 pistettä/ottelu ennen peliä. Tigresin vierasotteluiden xG on 2,36 ja 67 %:n vierasvoittoprosentti, mikä viittaa vaaraan vieraskentällä.</li>\n    <li>Koti- vs. vierasdynamiikka: Guadalajaran kotihyökkäyspelillä on +27 etu, mutta puolustuksen heikkous näkyy kotikentällä negatiivisena puolena. Tigresin vieraspeliuhka yhdistyy Guadalajaran haavoittuvuuteen puolustuksessa.</li>\n    <li>Markkinahuomautus: Tuplamahdollisuus Guadalajaran voittoon tai tasapeliin 1,25; Tuplamahdollisuus Tigresin voittoon tai tasapeliin 1,48. Turvallisempi puolustuksen taso kallistuu Guadalajaran voiton tai tappion puolelle, mutta Tigres vie mukanaan vakautta.</li>\n  </ul>\n\n  <p>Ennuste: Avoin ja maaleja täynnä oleva ottelu. Todennäköisimmät lopputulokset viittaavat molempien osapuolten tekemiin maaleja, ja todennäköisyys näyttää olevan Tigresin voitto tai tasapeli. Ehdotetut vedot: Yhdistettynä vedonlyöntikohteena kyllä ​​ja yli 2,5 maalia; harkitse ensimmäisen puoliajan yli 0,5 maalia -vetoa lisävetovaihtoehtona, koska historian ensimmäisen puoliajan yli 0,5 maalin todennäköisyys on 64 %.</p>\n</div>",
+          "vn": "<div>\n  <p>A 2025/2026-os szezon az Estadio Akronban kezdődik, ahol a Guadalajara a Tigres UANL-t fogadja. Papíron egy nagy oktánszámú nyitány lesz, egy olyan mérkőzés, amely történelmileg a gólok felé hajlott.</p>\n\n  <ul>\n    <li>BTTS Igen: 57% történelmi; a fogadási szorzó 1,72. Tiszta szög, mindkét fél támadási profilját tekintve.</li>\n    <li>2,5 gól felett: 64% történelmi valószínűség; az 1,91-es ár stabil értékarányt biztosít egy egymás elleni meccsen, a történelmi xG-jük 3,82.</li>\n    <li>Második félidei BTTS: 67% történelmi – drámára számíthatunk a szünet után.</li>\n    <li>Gól nélküli meccsek: Guadalajara Igen 3.25 / Nem 1.30; Tigres Igen 3.25 / Nem 1.30. Valószínű, hogy mindkét csapat legalább egy gólt szerez.</li>\n    <li>Csapatforma: Guadalajara 1.00 pont/mérkőzés; Tigres 2.00 pont/mérkőzés a mérkőzés kezdetekor. A Tigres idegenbeli xG-je 2.36, 67%-os idegenbeli győzelmi aránnyal, ami veszélyes játékra utal idegenben.</li>\n    <li>Hazai-idegenbeli dinamika: A Guadalajara hazai támadásai +27-es előnnyel rendelkeznek, de a védekezés hiányosságai negatívan hatnak hazai pályán. A Tigres idegenbeli fenyegetései párosulnak Guadalajara védelmi sebezhetőségével.</li>\n    <li>Piaci megjegyzés: Double Chance Guadalajara győzelem vagy döntetlen 1.25; Double Chance Tigres győzelem vagy döntetlen 1.48. A biztonságosabb védekezés a Guadalajara győzelme/veresége felé hajlik, de a Tigres stabilitást visz magával.</li>\n  </ul>\n\n  <p>Jóslat: nyílt, gólsűrű mérkőzés. A legvalószínűbb kimenetel mindkét oldalon gólra utal, a Tigres elleni eredmény vagy a magas gólú döntetlen felé hajlanak. Javasolt fogadások: BTTS Igen és 2,5 gól felett kombinált fogadásként; az első félidő 0,5 gól feletti fogadását kiegészítő fogadásként érdemes figyelembe venni, tekintve a 64%-os történelmi első félidői 0,5 gól feletti arányt.</p>\n</div>",
+          "zht": "<div>\n  <p>2025/2026賽季將在阿克倫體育場拉開序幕，瓜達拉哈拉隊將主場迎戰阿克倫大學老虎隊。從紙面上看，這是一場高光時刻的揭幕戰，而且這場比賽歷來都傾向於進球。</p>\n\n  <ul>\n    <li>BTTS 是：歷史機率 57%；賠率為 1.72。考慮到雙方的進攻特點，這是一個清晰的視角。</li>\n    <li>超過 2.5 個進球：歷史機率為 64%；價格 1.91 使其成為一對一比賽中的穩固價值，歷史上他們之間的總 xG 為 3.82。</li>\n    <li>下半場 BTTS：67% 歷史數據 — 預計下半場將會出現戲劇性場面。</li>\n    <li>零封對手：瓜達拉哈拉 3.25/1.30；老虎 3.25/1.30。雙方可能至少各進一球。</li>\n    <li>球隊狀態：瓜達拉哈拉場均1.00分；老虎隊場均2.00分（本場比賽開始）。老虎隊的客場預期進球數為2.36，客場勝率為67%，客場表現較為危險。</li>\n    <li>主客場動態：瓜達拉哈拉的主場進攻優勢+27，但防守端的薄弱在主場表現優異。老虎隊的客場威脅與瓜達拉哈拉後防線的脆弱形成鮮明對比。</li>\n    <li>市場附註：瓜達拉哈拉雙勝或平手賠率 1.25；老虎雙勝或平手賠率 1.48。瓜達拉哈拉勝平手更穩健，但老虎隊表現穩健。</li>\n  </ul>\n\n  <p>預測：本場比賽雙方互有勝負，進球密集。最有可能的結果是雙方都有進球，老虎隊獲勝或平局。建議投注：BTTS 是和進球數超過 2.5 個的組合；考慮到歷史上半場進球數超過 0.5 個的機率為 64%，可以考慮上半場進球數超過 0.5 個作為補充投注。</p>\n</div>",
+          "cn": "<div>\n  <p>2025/2026赛季将在阿克伦体育场拉开帷幕，瓜达拉哈拉队将主场迎战阿克伦大学老虎队。从纸面上看，这是一场高光时刻的揭幕战，而且这场比赛历来都倾向于进球。</p>\n\n  <ul>\n    <li>BTTS 是：历史概率 57%；赔率为 1.72。考虑到双方的进攻特点，这是一个清晰的视角。</li>\n    <li>超过 2.5 个进球：历史概率为 64%；价格 1.91 使其成为一对一比赛中的稳固价值，历史上他们之间的总 xG 为 3.82。</li>\n    <li>下半场 BTTS：67% 历史数据 — 预计下半场将会出现戏剧性场面。</li>\n    <li>零封对手：瓜达拉哈拉 3.25/1.30；老虎 3.25/1.30。双方可能至少各进一球。</li>\n    <li>球队状态：瓜达拉哈拉场均1.00分；老虎队场均2.00分（本场比赛开始）。老虎队的客场预期进球数为2.36，客场胜率为67%，客场表现较为危险。</li>\n    <li>主客场动态：瓜达拉哈拉的主场进攻优势+27，但防守端的薄弱在主场表现出色。老虎队的客场威胁与瓜达拉哈拉后防线的脆弱形成鲜明对比。</li>\n    <li>市场注：瓜达拉哈拉双胜或平局赔率 1.25；老虎双胜或平局赔率 1.48。瓜达拉哈拉胜平局更稳妥，但老虎队表现稳健。</li>\n  </ul>\n\n  <p>预测：本场比赛双方互有胜负，进球密集。最有可能的结果是双方均有进球，老虎队获胜或平局。建议投注：BTTS 是和进球数超过 2.5 个的组合；考虑到历史上半场进球数超过 0.5 个的概率为 64%，可以考虑上半场进球数超过 0.5 个作为补充投注。</p>\n</div>",
+          "bg": "<div>\n  <p>Сезон 2025/2026 започва на „Естадио Акрон“ с гостуването на Гуадалахара срещу Тигрес (UANL). На хартия това е вълнуващ откриващ мач, който исторически е клонил към голове.</p>\n\n  <ul>\n    <li>BTTS Да: 57% исторически; коефициент за подкрепа е 1.72. Ясен ъгъл, предвид атакуващите профили на двата отбора.</li>\n    <li>Над 2.5 гола: 64% историческа вероятност; коефициент 1.91 го прави солидна стойностна игра в директен мач с общ xG от 3.82 между тях исторически.</li>\n    <li>Втората половина на мача: 67% исторически резултат — очаквайте драма след почивката.</li>\n    <li>Сухи мрежи: Гуадалахара Да 3.25 / Не 1.30; Тигрес Да 3.25 / Не 1.30. Вероятно и двата отбора да отбележат поне по един гол.</li>\n    <li>Форма на отбора: Гуадалахара 1.00 точки на мач; Тигрес 2.00 точки на мач преди мача. Коефициентът xG на гостуването за Тигрес е 2.36 с 67% победи като гост, което предполага опасност на чужд терен.</li>\n    <li>Динамика между домакините и гостуванията: Домакинската атака на Гуадалахара има предимство от +27, но защитната отговорност се проявява като отрицателен фактор в домакински условия. Заплахата на Тигрес като гост се съчетава с уязвимостта на Гуадалахара в защита.</li>\n    <li>Пазарна бележка: Двоен шанс за победа или равенство на Гуадалахара 1.25; Двоен шанс за победа или равенство на Тигрес 1.48. По-сигурното покритие клони към победа/равенство на Гуадалахара, но Тигрес отнасят стабилност.</li>\n  </ul>\n\n  <p>Прогноза: отворен мач с голям брой голове. Най-вероятните резултати сочат към голове и от двете страни, като се насочват към резултат за Тигрес или равенство с висок резултат. Предложени залози: BTTS Да и Над 2.5 гола като комбиниран ъгъл; разгледайте Над 0.5 гола през първото полувреме като допълнителна игра, предвид историческите 64% над 0.5 гола през първото полувреме.</p>\n</div>"
+      },
+      "odds_comparison": {
+          "FT Result": {
+              "Away": {
+                  "Interwetten": "3.10",
+                  "bet365": "3.25",
+                  "Betsson": "3.20",
+                  "Sbo": "2.78",
+                  "Ladbrokes": "2.87",
+                  "Pinnacle": "3.22",
+                  "10Bet": "3.00",
+                  "1xbet": "2.97",
+                  "188Bet": "2.70",
+                  "MelBet": "2.62",
+                  "WilliamHill": "2.80",
+                  "HKJC": "2.94",
+                  "888Sport": "2.80",
+                  "bwin": "3.00",
+                  "MansionBet": "2.72",
+                  "Dafabet": "2.70",
+                  "Unibet": "2.75",
+                  "CloudBet": "3.37",
+                  "Betfair": "3.10"
+              },
+              "Home": {
+                  "Interwetten": "2.25",
+                  "bet365": "2.25",
+                  "Betsson": "2.18",
+                  "Sbo": "2.31",
+                  "Ladbrokes": "2.20",
+                  "Pinnacle": "2.31",
+                  "10Bet": "2.32",
+                  "1xbet": "2.35",
+                  "188Bet": "2.42",
+                  "MelBet": "2.61",
+                  "WilliamHill": "2.25",
+                  "HKJC": "2.13",
+                  "888Sport": "2.25",
+                  "bwin": "2.25",
+                  "MansionBet": "2.47",
+                  "Dafabet": "2.65",
+                  "Unibet": "2.32",
+                  "CloudBet": "2.16",
+                  "Betfair": "2.20"
+              },
+              "Draw": {
+                  "Interwetten": "3.20",
+                  "bet365": "3.30",
+                  "Betsson": "3.35",
+                  "Sbo": "3.16",
+                  "Ladbrokes": "3.20",
+                  "Pinnacle": "3.45",
+                  "10Bet": "3.40",
+                  "1xbet": "3.34",
+                  "188Bet": "3.35",
+                  "MelBet": "3.32",
+                  "WilliamHill": "3.10",
+                  "HKJC": "3.10",
+                  "888Sport": "3.10",
+                  "bwin": "3.40",
+                  "MansionBet": "3.25",
+                  "Dafabet": "3.35",
+                  "Unibet": "3.55",
+                  "CloudBet": "3.45",
+                  "Betfair": "3.30"
+              }
+          },
+          "1st Half Goals": {
+              "Over 2.5": {
+                  "WilliamHill": "6.00",
+                  "1xbet": "6.25",
+                  "10Bet": "6.25",
+                  "Unibet": "6.10",
+                  "888Sport": "6.00"
+              },
+              "Over 1.5": {
+                  "WilliamHill": "2.45",
+                  "1xbet": "2.62",
+                  "Pinnacle": "2.86",
+                  "Dafabet": "2.85",
+                  "10Bet": "2.65",
+                  "Unibet": "2.60",
+                  "888Sport": "2.50"
+              },
+              "Under 2.5": {
+                  "WilliamHill": "1.11",
+                  "1xbet": "1.06",
+                  "10Bet": "1.09",
+                  "Unibet": "1.08",
+                  "888Sport": "1.11"
+              },
+              "Over 0.5": {
+                  "WilliamHill": "1.30",
+                  "1xbet": "1.36",
+                  "Pinnacle": "1.38",
+                  "Dafabet": "1.42",
+                  "10Bet": "1.36",
+                  "Unibet": "1.32",
+                  "888Sport": "1.30"
+              },
+              "Under 0.5": {
+                  "WilliamHill": "3.10",
+                  "1xbet": "2.89",
+                  "Pinnacle": "3.17",
+                  "Dafabet": "2.90",
+                  "10Bet": "2.88",
+                  "Unibet": "3.05",
+                  "888Sport": "3.10"
+              },
+              "Under 1.5": {
+                  "WilliamHill": "1.44",
+                  "1xbet": "1.43",
+                  "Pinnacle": "1.45",
+                  "Dafabet": "1.43",
+                  "10Bet": "1.42",
+                  "Unibet": "1.42",
+                  "888Sport": "1.44"
+              }
+          },
+          "2nd Half Goals": {
+              "Over 2.5": {
+                  "1xbet": "4.30",
+                  "Unibet": "4.20",
+                  "10Bet": "4.20",
+                  "888Sport": "4.20",
+                  "WilliamHill": "4.20"
+              },
+              "Over 1.5": {
+                  "1xbet": "2.07",
+                  "Unibet": "2.02",
+                  "Dafabet": "2.16",
+                  "10Bet": "2.00",
+                  "888Sport": "2.00",
+                  "WilliamHill": "2.00"
+              },
+              "Under 2.5": {
+                  "1xbet": "1.16",
+                  "Unibet": "1.19",
+                  "10Bet": "1.18",
+                  "888Sport": "1.18",
+                  "WilliamHill": "1.18"
+              },
+              "Over 0.5": {
+                  "1xbet": "1.20",
+                  "Unibet": "1.21",
+                  "10Bet": "1.22",
+                  "888Sport": "1.22",
+                  "WilliamHill": "1.22"
+              },
+              "Under 1.5": {
+                  "1xbet": "1.71",
+                  "Unibet": "1.72",
+                  "Dafabet": "1.68",
+                  "10Bet": "1.73",
+                  "888Sport": "1.70",
+                  "WilliamHill": "1.70"
+              },
+              "Under 0.5": {
+                  "1xbet": "3.90",
+                  "Unibet": "4.00",
+                  "10Bet": "3.90",
+                  "888Sport": "3.80",
+                  "WilliamHill": "3.80"
+              }
+          },
+          "Corners 1X2": {
+              "Home": {
+                  "Unibet": "1.97",
+                  "1xbet": "1.97",
+                  "WilliamHill": "1.80"
+              },
+              "Draw": {
+                  "Unibet": "7.00",
+                  "1xbet": "6.70",
+                  "WilliamHill": "8.50"
+              },
+              "Away": {
+                  "Unibet": "2.07",
+                  "1xbet": "2.26",
+                  "WilliamHill": "2.20"
+              }
+          },
+          "Corners": {
+              "Over 7.5": {
+                  "Unibet": "1.19",
+                  "1xbet": "1.26"
+              },
+              "Under 9.5": {
+                  "Unibet": "2.10",
+                  "1xbet": "1.94",
+                  "Pinnacle": "1.95",
+                  "10Bet": "2.00"
+              },
+              "Over 8.5": {
+                  "Unibet": "1.35",
+                  "1xbet": "1.48",
+                  "Pinnacle": "1.47"
+              },
+              "Under 8.5": {
+                  "Unibet": "2.80",
+                  "1xbet": "2.46",
+                  "Pinnacle": "2.54"
+              },
+              "Over 10.5": {
+                  "Unibet": "1.96",
+                  "1xbet": "2.26",
+                  "Pinnacle": "2.25",
+                  "10Bet": "2.05"
+              },
+              "Under 10.5": {
+                  "Unibet": "1.70",
+                  "1xbet": "1.59",
+                  "Pinnacle": "1.60",
+                  "10Bet": "1.70"
+              },
+              "Under 7.5": {
+                  "Unibet": "3.90",
+                  "1xbet": "3.35"
+              },
+              "Over 11.5": {
+                  "Unibet": "2.50",
+                  "1xbet": "2.87"
+              },
+              "Under 11.5": {
+                  "Unibet": "1.43",
+                  "1xbet": "1.37"
+              },
+              "Over 9.5": {
+                  "Unibet": "1.60",
+                  "1xbet": "1.80",
+                  "Pinnacle": "1.85",
+                  "10Bet": "1.73"
+              }
+          },
+          "Half Time Result": {
+              "Draw": {
+                  "bet365": "2.25",
+                  "Sbo": "2.16",
+                  "10Bet": "2.10",
+                  "Dafabet": "2.17",
+                  "WilliamHill": "2.30",
+                  "Pinnacle": "2.30",
+                  "1xbet": "2.11",
+                  "Unibet": "2.23",
+                  "188Bet": "2.18",
+                  "888Sport": "2.30"
+              },
+              "Away": {
+                  "bet365": "3.60",
+                  "Sbo": "3.22",
+                  "10Bet": "3.45",
+                  "Dafabet": "3.30",
+                  "WilliamHill": "3.10",
+                  "Pinnacle": "3.79",
+                  "1xbet": "3.64",
+                  "Unibet": "3.25",
+                  "188Bet": "3.30",
+                  "888Sport": "3.10"
+              },
+              "Home": {
+                  "bet365": "2.87",
+                  "Sbo": "2.65",
+                  "10Bet": "2.85",
+                  "Dafabet": "3.25",
+                  "WilliamHill": "2.70",
+                  "Pinnacle": "2.93",
+                  "1xbet": "2.90",
+                  "Unibet": "2.85",
+                  "188Bet": "2.95",
+                  "888Sport": "2.70"
+              }
+          },
+          "Second Half Result": {
+              "Draw": {
+                  "WilliamHill": "2.45",
+                  "1xbet": "2.47",
+                  "Dafabet": "2.55",
+                  "888Sport": "2.45",
+                  "10Bet": "2.45",
+                  "bet365": "2.50",
+                  "Unibet": "2.60"
+              },
+              "Home": {
+                  "WilliamHill": "2.60",
+                  "1xbet": "2.60",
+                  "Dafabet": "2.90",
+                  "888Sport": "2.60",
+                  "10Bet": "2.60",
+                  "bet365": "2.60",
+                  "Unibet": "2.70"
+              },
+              "Away": {
+                  "WilliamHill": "3.10",
+                  "1xbet": "3.27",
+                  "Dafabet": "2.95",
+                  "888Sport": "3.10",
+                  "10Bet": "3.10",
+                  "bet365": "3.10",
+                  "Unibet": "3.15"
+              }
+          },
+          "Goals Over/Under": {
+              "Over 2.5": {
+                  "Sbo": "1.86",
+                  "Unibet": "1.83",
+                  "1xbet": "1.84",
+                  "188Bet": "2.01",
+                  "10Bet": "1.85",
+                  "Pinnacle": "1.93",
+                  "888Sport": "1.80",
+                  "Dafabet": "1.99",
+                  "bet365": "1.85"
+              },
+              "Under 2.5": {
+                  "Sbo": "2.00",
+                  "Unibet": "1.97",
+                  "1xbet": "1.93",
+                  "188Bet": "1.88",
+                  "10Bet": "1.93",
+                  "Pinnacle": "1.95",
+                  "888Sport": "1.91",
+                  "Dafabet": "1.84",
+                  "bet365": "1.95"
+              },
+              "Over 1.5": {
+                  "Unibet": "1.24",
+                  "1xbet": "1.22",
+                  "10Bet": "1.28",
+                  "Pinnacle": "1.28",
+                  "888Sport": "1.25"
+              },
+              "Under 1.5": {
+                  "Unibet": "3.75",
+                  "1xbet": "3.50",
+                  "10Bet": "3.55",
+                  "Pinnacle": "3.81",
+                  "888Sport": "3.60"
+              },
+              "Over 3.5": {
+                  "Unibet": "3.10",
+                  "1xbet": "2.93",
+                  "10Bet": "3.10",
+                  "Pinnacle": "3.30",
+                  "888Sport": "3.00"
+              },
+              "Under 0.5": {
+                  "Unibet": "11.00",
+                  "1xbet": "10.40",
+                  "10Bet": "9.00",
+                  "888Sport": "10.00"
+              },
+              "Under 3.5": {
+                  "Unibet": "1.37",
+                  "1xbet": "1.31",
+                  "10Bet": "1.35",
+                  "Pinnacle": "1.35",
+                  "888Sport": "1.33"
+              },
+              "Over 0.5": {
+                  "Unibet": "1.01",
+                  "1xbet": "1.02",
+                  "10Bet": "1.05",
+                  "888Sport": "1.04"
+              },
+              "Over 4.5": {
+                  "Unibet": "5.80",
+                  "1xbet": "5.50",
+                  "10Bet": "6.00",
+                  "Pinnacle": "6.46",
+                  "888Sport": "5.50"
+              },
+              "Under 4.5": {
+                  "Unibet": "1.11",
+                  "1xbet": "1.08",
+                  "10Bet": "1.12",
+                  "Pinnacle": "1.13",
+                  "888Sport": "1.13"
+              }
+          },
+          "Both Teams To Score": {
+              "Yes": {
+                  "bet365": "1.66",
+                  "1xbet": "1.65",
+                  "Dafabet": "1.74",
+                  "10Bet": "1.65",
+                  "Unibet": "1.64",
+                  "188Bet": "1.75",
+                  "Pinnacle": "1.69",
+                  "WilliamHill": "1.65",
+                  "888Sport": "1.65"
+              },
+              "No": {
+                  "bet365": "2.10",
+                  "1xbet": "2.13",
+                  "Dafabet": "2.06",
+                  "10Bet": "2.10",
+                  "Unibet": "2.10",
+                  "188Bet": "2.04",
+                  "Pinnacle": "2.23",
+                  "WilliamHill": "2.10",
+                  "888Sport": "2.10"
+              }
+          },
+          "Clean Sheet - Away": {
+              "No": {
+                  "10Bet": "1.22"
+              },
+              "Yes": {
+                  "10Bet": "3.70"
+              }
+          },
+          "Both Teams to Score in 2nd Half": {
+              "Yes": {
+                  "10Bet": "2.95",
+                  "1xbet": "3.10",
+                  "bet365": "3.00"
+              },
+              "No": {
+                  "10Bet": "1.35",
+                  "1xbet": "1.33",
+                  "bet365": "1.36"
+              }
+          },
+          "Double Chance": {
+              "Draw/Away": {
+                  "Unibet": "1.50",
+                  "1xbet": "1.58",
+                  "10Bet": "1.60",
+                  "Pinnacle": "1.67",
+                  "WilliamHill": "1.57",
+                  "Dafabet": "1.45",
+                  "Sbo": "1.60",
+                  "888Sport": "1.57"
+              },
+              "Home/Draw": {
+                  "Unibet": "1.37",
+                  "1xbet": "1.38",
+                  "10Bet": "1.38",
+                  "Pinnacle": "1.38",
+                  "WilliamHill": "1.36",
+                  "Dafabet": "1.44",
+                  "Sbo": "1.32",
+                  "888Sport": "1.36"
+              },
+              "Home/Away": {
+                  "Unibet": "1.24",
+                  "1xbet": "1.31",
+                  "10Bet": "1.25",
+                  "Pinnacle": "1.34",
+                  "WilliamHill": "1.30",
+                  "Dafabet": "1.32",
+                  "Sbo": "1.25",
+                  "888Sport": "1.30"
+              }
+          },
+          "Clean Sheet - Home": {
+              "Yes": {
+                  "10Bet": "3.10"
+              },
+              "No": {
+                  "10Bet": "1.33"
+              }
+          },
+          "Both Teams to Score in 1st Half": {
+              "Yes": {
+                  "10Bet": "3.95",
+                  "Pinnacle": "4.59",
+                  "1xbet": "4.10",
+                  "Dafabet": "4.30",
+                  "bet365": "4.33"
+              },
+              "No": {
+                  "10Bet": "1.20",
+                  "Pinnacle": "1.21",
+                  "1xbet": "1.20",
+                  "Dafabet": "1.19",
+                  "bet365": "1.20"
+              }
+          }
+      }
+  },
+  "message": "Usage of the API is bound to our Terms of Use : https://footystats.org/api/documentations/terms-of-use-and-legal"
+}

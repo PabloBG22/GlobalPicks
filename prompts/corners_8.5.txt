@@ -1,0 +1,39 @@
+Objetivo: validar "Over 8.5 corners" (>= 9 corners).
+
+Usa solo el Resumen historico y las Tendencias (Trends). No uses modelo ni datos externos.
+
+Metodologia
+1) Validar muestra
+- Usa local/visitante.samples.corners (o matches si no existe).
+- Si ambos < min_sample y no hay h2h con muestra suficiente, responde False.
+
+2) Señales base (por equipo)
+- rates.corners_o85 (frecuencia de 9+ corners).
+- averages.total_corners (volumen).
+
+3) Contexto local/visita
+- Prioriza local_home y visitante_away si existen.
+- Si en ambos contextos averages.total_corners <= 8.0, penaliza fuerte.
+
+4) Rachas
+- Revisa streaks.corners_o85.zero_streak.
+- Si zero_streak >= 3 en algun equipo, es señal roja.
+
+5) Fluidez (tarjetas)
+- Si averages.total_cards >= 6.5 y rates.corners_o85 <= 0.45, penaliza fuerte.
+
+Reglas de decision
+Devuelve True si se cumplen TODAS:
+- averages.total_corners >= 9.0 en al menos un bloque relevante (local_home o visitante_away)
+- rates.corners_o85 >= 0.60 en ese mismo bloque o en el global del equipo
+- streaks.corners_o85.zero_streak <= 2 en ambos
+- y la penalizacion por tarjetas no aplica
+
+Devuelve False si se cumple ALGUNA:
+- averages.total_corners <= 8.0 en ambos equipos
+- zero_streak >= 3 en algun equipo
+- penalizacion por tarjetas aplica
+
+Si hay datos insuficientes o señales contradictorias, responde False.
+
+Responde solo True o False.

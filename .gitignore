@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+tmp_resultados/
+resultados_gpt/
+resultados_picks/

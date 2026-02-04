@@ -1,0 +1,40 @@
+Hora,Liga,Local,Visitante,ODDS,Mercado,Marcador_HT,Marcador_FT,Corners_total,Estado,Prob_Modelo,Prob_Historico
+2026-01-01 09:00,England EFL League Two,Colchester United,Milton Keynes Dons,1.42,GOL HT,0-0,1-0,9,ROJO,87,75
+2026-01-01 09:00,England Championship,Watford,Birmingham City,1.4,GOL HT,2-0,3-0,8,VERDE,88,73
+2026-01-01 11:30,England Championship,Sheffield United,Leicester City,1.36,GOL HT,1-0,3-1,10,VERDE,74,75
+2026-01-01 09:00,England EFL League Two,Colchester United,Milton Keynes Dons,1.35,OVER 1.5,0-0,1-0,9,ROJO,96,82
+2026-01-01 09:00,England Championship,Derby County,Middlesbrough,1.38,OVER 1.5,0-0,1-0,13,ROJO,79,78
+2026-01-01 09:00,England Championship,Charlton Athletic,Coventry City,1.23,OVER 1.5,0-1,1-1,12,VERDE,72,84
+2026-01-01 11:30,England Premier League,Crystal Palace,Fulham,1.38,OVER 1.5,1-0,1-1,9,VERDE,78,75
+2026-01-02 13:30,Spain Segunda División,SD Eibar,Mirandés,1.44,GOL HT,0-1,2-1,8,VERDE,75.0,73.0
+2026-01-02 13:30,Spain Segunda División,SD Eibar,Mirandés,1.34,OVER 1.5,0-1,2-1,8,VERDE,80.0,79.0
+2026-01-02 13:45,France Ligue 1,Toulouse,Lens,1.3,OVER 1.5,0-0,0-3,10,VERDE,76.0,81.0
+2026-01-02 11:30,Saudi Arabia Professional League,Al Ahli,Al Nassr,,Team Over 1.5,2-2,3-2,7,VERDE,,
+2026-01-03 05:30,Italy Serie A,Como,Udinese,1.44,GOL HT,1-0,1-0,5,VERDE,86.0,72.0
+2026-01-03 07:00,France Ligue 2,Troyes,Red Star,1.46,GOL HT,1-0,1-0,10,VERDE,76.0,76.0
+2026-01-03 11:30,Spain Segunda División,Real Valladolid,Racing Santander,1.33,GOL HT,0-0,1-1,4,ROJO,79.0,78.0
+2026-01-03 13:00,France Ligue 2,Bastia,Grenoble Foot 38,1.48,GOL HT,1-0,1-0,5,VERDE,73.0,71.0
+2026-01-03 13:00,France Ligue 2,Reims,Annecy,1.44,GOL HT,2-1,2-1,6,VERDE,71.0,72.0
+2026-01-03 13:45,Italy Serie A,Atalanta,Roma,1.37,GOL HT,1-0,1-0,12,VERDE,77.0,77.0
+2026-01-03 09:15,Spain La Liga,CA Osasuna,Athletic Club Bilbao,1.41,OVER 1.5,1-0,1-1,10,VERDE,82.0,78.0
+2026-01-03 11:30,Spain Segunda División,Real Valladolid,Racing Santander,1.25,OVER 1.5,0-0,1-1,4,VERDE,80.0,85.0
+2026-01-03 13:00,France Ligue 2,Bastia,Grenoble Foot 38,1.4,OVER 1.5,1-0,1-0,5,ROJO,73.0,76.0
+2026-01-03 14:00,Spain Segunda División,Córdoba,Burgos CF,1.46,OVER 1.5,1-0,2-0,12,VERDE,78.0,77.0
+2026-01-03 14:00,Spain La Liga,RCD Espanyol,FC Barcelona,,Team Over 1.5,0-0,0-2,12,VERDE,,
+2026-01-03 09:15,Spain Segunda División,Almería,Granada CF,,Team Over 1.5,1-1,3-2,12,VERDE,,
+2026-01-03 11:00,Italy Serie A,Juventus,Lecce,,Team Over 1.5,0-1,1-1,11,ROJO,,
+2026-01-04 06:00,England Championship,Birmingham City,Coventry City,1.6,BTTS YES,2-1,3-2,8,VERDE,72.0,72.0
+2026-01-04 11:30,Saudi Arabia Professional League,Dhamk,Al Hilal,2.0,BTTS YES,0-1,0-2,11,ROJO,62.0,62.0
+2026-01-04 06:00,England Championship,Birmingham City,Coventry City,1.35,GOL HT,2-1,3-2,8,VERDE,76.0,82.0
+2026-01-04 06:30,England Premier League,Leeds United,Manchester United,1.36,GOL HT,0-0,1-1,10,ROJO,78.0,77.0
+2026-01-04 09:00,England EFL League Two,Bromley,Oldham Athletic,1.38,GOL HT,,,,PENDIENTE,84.0,76.0
+2026-01-04 09:00,England EFL League Two,Barnet,Crewe Alexandra,1.35,GOL HT,,,,PENDIENTE,80.0,77.0
+2026-01-04 06:00,England Championship,Birmingham City,Coventry City,1.23,OVER 1.5,2-1,3-2,8,VERDE,84.0,89.0
+2026-01-04 06:30,England Premier League,Leeds United,Manchester United,1.25,OVER 1.5,0-0,1-1,10,VERDE,89.0,83.0
+2026-01-04 09:00,England EFL League Two,Bromley,Oldham Athletic,1.33,OVER 1.5,,,,PENDIENTE,71.0,83.0
+2026-01-04 09:00,England EFL League Two,Barnet,Crewe Alexandra,1.28,OVER 1.5,,,,PENDIENTE,80.0,84.0
+2026-01-04 11:30,Spain Segunda División,Albacete Balompié,Leganés,1.34,OVER 1.5,1-1,1-3,10,VERDE,74.0,77.0
+2026-01-04 13:45,Italy Serie A,Inter Milan,Bologna,1.27,OVER 1.5,1-0,3-1,8,VERDE,82.0,84.0
+2026-01-04 13:45,France Ligue 1,PSG,Paris,,Team Over 1.5,1-0,2-1,8,VERDE,,
+2026-01-04 09:15,Spain La Liga,Real Madrid,Real Betis,,Team Over 1.5,1-0,5-1,13,VERDE,,
+2026-01-04 11:30,Saudi Arabia Professional League,Dhamk,Al Hilal,,Team Over 1.5,0-1,0-2,11,VERDE,,

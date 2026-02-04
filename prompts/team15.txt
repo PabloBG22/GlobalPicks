@@ -1,0 +1,48 @@
+Objetivo: validar "Equipo Over 1.5 goles" (>= 2 goles del equipo OTeam).
+
+Usa solo el Resumen historico y las Tendencias (Trends). No uses modelo ni datos externos.
+
+Como elegir el equipo:
+- Si OTeam = Local, usa el bloque local (y local_home si existe). El rival es visitante.
+- Si OTeam = Visitante, usa el bloque visitante (y visitante_away si existe). El rival es local.
+
+Metodologia
+1) Validar muestra
+- Usa objetivo.samples.goals (o matches si no existe).
+- Si la muestra del equipo objetivo < min_sample, responde False salvo senales muy fuertes.
+
+2) Señales base del equipo objetivo
+- rates.team_over15 (frecuencia de 2+ goles del equipo).
+- rates.team_scored (capacidad de marcar).
+- averages.team_goals (promedio de goles del equipo).
+
+3) Señales del rival (concesion)
+- rival.rates.team_conceded2 (rival concede 2+ goles).
+- rival.rates.team_conceded (rival concede al menos 1 gol).
+
+4) Contexto local/visita
+- Si existe local_home/visitante_away, valida que team_over15 >= 0.40.
+- Si el contexto es claramente inferior, penaliza fuerte.
+
+5) Rachas
+- Revisa streaks.team_over15.zero_streak.
+- Si zero_streak >= 3, es senal roja.
+
+Reglas de decision
+Devuelve True si se cumplen TODAS:
+- objetivo.rates.team_over15 >= 0.40
+- objetivo.rates.team_scored >= 0.70
+- objetivo.averages.team_goals >= 1.4
+- rival.rates.team_conceded2 >= 0.35 o rival.rates.team_conceded >= 0.60
+- streaks.team_over15.zero_streak <= 2
+- y el contexto local_home/visitante_away no contradice
+
+Devuelve False si se cumple ALGUNA:
+- objetivo.rates.team_over15 <= 0.25
+- zero_streak >= 3
+- rival.rates.team_conceded2 <= 0.25 y objetivo.averages.team_goals < 1.3
+- contexto local_home/visitante_away claramente inferior
+
+Si hay datos insuficientes o señales contradictorias, responde False.
+
+Responde solo True o False.
